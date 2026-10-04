@@ -1,0 +1,1123 @@
+﻿C:\Users\Utilisateur\expense_manager\.dart_tool
+C:\Users\Utilisateur\expense_manager\.dart_tool\build
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\entrypoint
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\entrypoint\.packageLocations
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\entrypoint\build.dart
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\entrypoint\build.dart.dill
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\fcd1995bc647fb959e82ea360c6c2c9a
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\fcd1995bc647fb959e82ea360c6c2c9a\asset_graph.json
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\crypto
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\crypto\lib
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\crypto\lib\crypto.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\crypto\lib\src
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\crypto\lib\src\digest.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\crypto\lib\src\digest_sink.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\crypto\lib\src\hash.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\crypto\lib\src\hash_sink.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\crypto\lib\src\hmac.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\crypto\lib\src\md5.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\crypto\lib\src\sha1.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\crypto\lib\src\sha256.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\crypto\lib\src\sha512.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\crypto\lib\src\sha512_fastsinks.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\crypto\lib\src\utils.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\expense_manager
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\expense_manager\lib
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\expense_manager\lib\models
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\expense_manager\lib\models\budget.hive_generator.g.part
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\expense_manager\lib\models\expense.hive_generator.g.part
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\expense_manager\lib\models\income.hive_generator.g.part
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\hive.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\adapters
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\adapters\big_int_adapter.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\adapters\date_time_adapter.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\annotations
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\annotations\hive_field.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\annotations\hive_type.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\backend
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\backend\storage_backend.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\backend\storage_backend_memory.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\binary
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\binary\binary_reader.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\binary\binary_writer.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\box
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\box\box.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\box\box_base.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\box\box_base_impl.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\box\box_impl.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\box\default_compaction_strategy.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\box\default_key_comparator.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\box\lazy_box.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\box\lazy_box_impl.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\box_collection
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\box_collection\box_collection_stub.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\crypto
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\crypto\aes_cbc_pkcs7.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\crypto\aes_engine.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\crypto\crc32.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\crypto\hive_aes_cipher.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\crypto\hive_cipher.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\hive.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\hive_error.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\hive_impl.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\object
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\object\hive_collection.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\object\hive_collection_mixin.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\object\hive_list.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\object\hive_list_impl.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\object\hive_object.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\object\hive_object_internal.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\object\hive_storage_backend_preference.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\registry
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\registry\type_adapter.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\registry\type_registry.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\registry\type_registry_impl.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\util
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\util\delegating_list_view_mixin.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\hive\lib\src\util\extensions.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\meta
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\meta\lib
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\meta\lib\meta.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build\generated\meta\lib\meta_meta.dart.transitive_digest
+C:\Users\Utilisateur\expense_manager\.dart_tool\build_resolvers
+C:\Users\Utilisateur\expense_manager\.dart_tool\build_resolvers\sdk.sum
+C:\Users\Utilisateur\expense_manager\.dart_tool\build_resolvers\sdk.sum.deps
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Account Web Data
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Account Web Data-journal
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Affiliation Database
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Affiliation Database-journal
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\AutofillStrikeDatabase
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\AutofillStrikeDatabase\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\AutofillStrikeDatabase\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\AutofillStrikeDatabase\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\blob_storage
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\blob_storage\3d08bf92-daa8-4fb5-a5ca-37a5dd8e5df1
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\blob_storage\57841c7a-a34e-4afd-9caa-218261a213da
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\blob_storage\62829747-0ca5-4b73-b8cf-2d3bfc322523
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\blob_storage\6ea874ea-f8c4-4667-b744-6ac51ffbf1ef
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\blob_storage\989fd230-050a-4baa-9123-2d065df8e187
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\blob_storage\c4e59fc2-bf0d-4aae-8db7-628afec45203
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\blob_storage\cbfb9a1f-2a2d-4ff0-a208-dd1413fab8cd
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\blob_storage\cf079487-5f66-43f1-8b14-534745a26df3
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\BookmarkMergedSurfaceOrdering
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\BrowsingTopicsSiteData
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\BrowsingTopicsSiteData-journal
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\BrowsingTopicsState
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\BudgetDatabase
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\BudgetDatabase\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\BudgetDatabase\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\BudgetDatabase\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\chrome_cart_db
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\chrome_cart_db\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\chrome_cart_db\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\chrome_cart_db\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\ClientCertificates
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\ClientCertificates\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\ClientCertificates\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\ClientCertificates\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\commerce_subscription_db
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\commerce_subscription_db\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\commerce_subscription_db\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\commerce_subscription_db\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\DIPS
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\discount_infos_db
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\discount_infos_db\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\discount_infos_db\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\discount_infos_db\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\discounts_db
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\discounts_db\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\discounts_db\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\discounts_db\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Download Service
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Download Service\EntryDB
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Download Service\EntryDB\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Download Service\EntryDB\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Download Service\EntryDB\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Download Service\Files
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\engine_allowlist.bf
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Extension Rules
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Extension Rules\000003.log
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Extension Rules\CURRENT
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Extension Rules\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Extension Rules\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Extension Rules\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Extension Rules\MANIFEST-000001
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Extension Scripts
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Extension Scripts\000003.log
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Extension Scripts\CURRENT
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Extension Scripts\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Extension Scripts\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Extension Scripts\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Extension Scripts\MANIFEST-000001
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Extension State
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Extension State\000003.log
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Extension State\CURRENT
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Extension State\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Extension State\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Extension State\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Extension State\MANIFEST-000001
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Favicons
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Favicons-journal
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Feature Engagement Tracker
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Feature Engagement Tracker\AvailabilityDB
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Feature Engagement Tracker\AvailabilityDB\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Feature Engagement Tracker\AvailabilityDB\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Feature Engagement Tracker\AvailabilityDB\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Feature Engagement Tracker\EventDB
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Feature Engagement Tracker\EventDB\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Feature Engagement Tracker\EventDB\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Feature Engagement Tracker\EventDB\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\GCM Store
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\GCM Store\000003.log
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\GCM Store\CURRENT
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\GCM Store\Encryption
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\GCM Store\Encryption\000003.log
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\GCM Store\Encryption\CURRENT
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\GCM Store\Encryption\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\GCM Store\Encryption\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\GCM Store\Encryption\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\GCM Store\Encryption\MANIFEST-000001
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\GCM Store\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\GCM Store\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\GCM Store\MANIFEST-000001
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\heavy_ad_intervention_opt_out.db
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\heavy_ad_intervention_opt_out.db-journal
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\History
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\History-journal
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_51456.indexeddb.leveldb
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_51456.indexeddb.leveldb\000003.log
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_51456.indexeddb.leveldb\CURRENT
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_51456.indexeddb.leveldb\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_51456.indexeddb.leveldb\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_51456.indexeddb.leveldb\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_51456.indexeddb.leveldb\MANIFEST-000001
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52964.indexeddb.leveldb
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52964.indexeddb.leveldb\000003.log
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52964.indexeddb.leveldb\CURRENT
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52964.indexeddb.leveldb\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52964.indexeddb.leveldb\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52964.indexeddb.leveldb\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52964.indexeddb.leveldb\MANIFEST-000001
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_53843.indexeddb.leveldb
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_53843.indexeddb.leveldb\000003.log
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_53843.indexeddb.leveldb\CURRENT
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_53843.indexeddb.leveldb\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_53843.indexeddb.leveldb\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_53843.indexeddb.leveldb\MANIFEST-000001
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_55434.indexeddb.leveldb
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_55434.indexeddb.leveldb\000003.log
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_55434.indexeddb.leveldb\CURRENT
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_55434.indexeddb.leveldb\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_55434.indexeddb.leveldb\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_55434.indexeddb.leveldb\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_55434.indexeddb.leveldb\MANIFEST-000001
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_59125.indexeddb.leveldb
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_59125.indexeddb.leveldb\000003.log
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_59125.indexeddb.leveldb\CURRENT
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_59125.indexeddb.leveldb\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_59125.indexeddb.leveldb\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_59125.indexeddb.leveldb\MANIFEST-000001
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_60129.indexeddb.leveldb
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_60129.indexeddb.leveldb\000003.log
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_60129.indexeddb.leveldb\CURRENT
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_60129.indexeddb.leveldb\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_60129.indexeddb.leveldb\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_60129.indexeddb.leveldb\MANIFEST-000001
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_60791.indexeddb.leveldb
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_60791.indexeddb.leveldb\000003.log
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_60791.indexeddb.leveldb\CURRENT
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_60791.indexeddb.leveldb\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_60791.indexeddb.leveldb\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_60791.indexeddb.leveldb\MANIFEST-000001
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\JumpListIconsMostVisited
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\JumpListIconsRecentClosed
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Local Storage
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Local Storage\leveldb
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Local Storage\leveldb\000003.log
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Local Storage\leveldb\CURRENT
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Local Storage\leveldb\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Local Storage\leveldb\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Local Storage\leveldb\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Local Storage\leveldb\MANIFEST-000001
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Login Data
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Login Data For Account
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Login Data For Account-journal
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Login Data-journal
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\MediaDeviceSalts
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\MediaDeviceSalts-journal
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Network
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Network Action Predictor
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Network Action Predictor-journal
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Network\Cookies
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Network\Cookies-journal
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Network\Device Bound Sessions
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Network\Device Bound Sessions-journal
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Network\Network Persistent State
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Network\NetworkDataMigrated
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Network\Reporting and NEL
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Network\Reporting and NEL-journal
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Network\TransportSecurity
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Network\Trust Tokens
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Network\Trust Tokens-journal
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\optimization_guide_hint_cache_store
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\optimization_guide_hint_cache_store\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\optimization_guide_hint_cache_store\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\optimization_guide_hint_cache_store\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\parcel_tracking_db
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\parcel_tracking_db\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\parcel_tracking_db\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\parcel_tracking_db\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\PersistentOriginTrials
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\PersistentOriginTrials\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\PersistentOriginTrials\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\PersistentOriginTrials\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Preferences
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\PreferredApps
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\README
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Safe Browsing Network
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Safe Browsing Network\NetworkDataMigrated
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Safe Browsing Network\Safe Browsing Cookies
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Safe Browsing Network\Safe Browsing Cookies-journal
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Search Logos
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Search Logos\dark_logo
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Search Logos\logo
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Search Logos\metadata
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Secure Preferences
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Segmentation Platform
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Segmentation Platform\SegmentInfoDB
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Segmentation Platform\SegmentInfoDB\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Segmentation Platform\SegmentInfoDB\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Segmentation Platform\SegmentInfoDB\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Segmentation Platform\SignalDB
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Segmentation Platform\SignalDB\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Segmentation Platform\SignalDB\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Segmentation Platform\SignalDB\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Segmentation Platform\SignalStorageConfigDB
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Segmentation Platform\SignalStorageConfigDB\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Segmentation Platform\SignalStorageConfigDB\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Segmentation Platform\SignalStorageConfigDB\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\ServerCertificate
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\ServerCertificate-journal
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Service Worker
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Service Worker\Database
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Service Worker\Database\000003.log
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Service Worker\Database\CURRENT
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Service Worker\Database\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Service Worker\Database\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Service Worker\Database\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Service Worker\Database\MANIFEST-000001
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Session Storage
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Session Storage\000003.log
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Session Storage\CURRENT
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Session Storage\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Session Storage\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Session Storage\MANIFEST-000001
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Sessions
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Sessions\Session_13428885658241418
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Sessions\Session_13428895420487125
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Sessions\Session_13428898605082095
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Sessions\Session_13428899614708805
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Sessions\Session_13428900352904924
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Sessions\Session_13428901053974019
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Sessions\Session_13428902968982540
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Sessions\Session_13428904071125344
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Sessions\Tabs_13428895320469790
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Sessions\Tabs_13428895420745250
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Sessions\Tabs_13428898605363415
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Sessions\Tabs_13428899614975995
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Sessions\Tabs_13428900353116976
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Sessions\Tabs_13428901054245887
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Sessions\Tabs_13428902969147278
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Sessions\Tabs_13428904071306181
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Shared Dictionary
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Shared Dictionary\cache
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Shared Dictionary\cache\15016fda5bbec337_0
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Shared Dictionary\cache\bfddfcd2bd54e92a_0
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Shared Dictionary\cache\index
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Shared Dictionary\cache\index-dir
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Shared Dictionary\cache\index-dir\the-real-index
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Shared Dictionary\db
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Shared Dictionary\db-journal
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\shared_proto_db
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\shared_proto_db\000003.log
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\shared_proto_db\000004.log
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\shared_proto_db\000005.ldb
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\shared_proto_db\CURRENT
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\shared_proto_db\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\shared_proto_db\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\shared_proto_db\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\shared_proto_db\MANIFEST-000001
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\shared_proto_db\metadata
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\shared_proto_db\metadata\000003.log
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\shared_proto_db\metadata\CURRENT
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\shared_proto_db\metadata\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\shared_proto_db\metadata\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\shared_proto_db\metadata\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\shared_proto_db\metadata\MANIFEST-000001
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\SharedStorage
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Shortcuts
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Shortcuts-journal
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Site Characteristics Database
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Site Characteristics Database\000003.log
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Site Characteristics Database\CURRENT
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Site Characteristics Database\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Site Characteristics Database\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Site Characteristics Database\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Site Characteristics Database\MANIFEST-000001
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Sync Data
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Sync Data\LevelDB
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Sync Data\LevelDB\000003.log
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Sync Data\LevelDB\CURRENT
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Sync Data\LevelDB\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Sync Data\LevelDB\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Sync Data\LevelDB\LOG.old
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Sync Data\LevelDB\MANIFEST-000001
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Top Sites
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Top Sites-journal
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\trusted_vault.pb
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\VideoDecodeStats
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\VideoDecodeStats\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\VideoDecodeStats\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Web Data
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\Web Data-journal
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\WebStorage
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\WebStorage\9
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\WebStorage\9\CacheStorage
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\WebStorage\9\CacheStorage\f8b4a203-70f7-47bd-b486-46657f35d04f
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\WebStorage\9\CacheStorage\f8b4a203-70f7-47bd-b486-46657f35d04f\index
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\WebStorage\9\CacheStorage\f8b4a203-70f7-47bd-b486-46657f35d04f\index-dir
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\WebStorage\9\CacheStorage\f8b4a203-70f7-47bd-b486-46657f35d04f\index-dir\the-real-index
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\WebStorage\9\CacheStorage\index.txt
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\WebStorage\9\IndexedDB
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\WebStorage\9\IndexedDB\indexeddb.leveldb
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\WebStorage\9\IndexedDB\indexeddb.leveldb\000003.log
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\WebStorage\9\IndexedDB\indexeddb.leveldb\CURRENT
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\WebStorage\9\IndexedDB\indexeddb.leveldb\LOCK
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\WebStorage\9\IndexedDB\indexeddb.leveldb\LOG
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\WebStorage\9\IndexedDB\indexeddb.leveldb\MANIFEST-000001
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\WebStorage\QuotaManager
+C:\Users\Utilisateur\expense_manager\.dart_tool\chrome-device\Default\WebStorage\QuotaManager-journal
+C:\Users\Utilisateur\expense_manager\.dart_tool\dartpad
+C:\Users\Utilisateur\expense_manager\.dart_tool\dartpad\web_plugin_registrant.dart
+C:\Users\Utilisateur\expense_manager\.dart_tool\extension_discovery
+C:\Users\Utilisateur\expense_manager\.dart_tool\extension_discovery\vs_code.json
+C:\Users\Utilisateur\expense_manager\.dart_tool\flutter_build
+C:\Users\Utilisateur\expense_manager\.dart_tool\flutter_build\83e8de9a5871f5698aea4772f6ae5a2e
+C:\Users\Utilisateur\expense_manager\.dart_tool\flutter_build\83e8de9a5871f5698aea4772f6ae5a2e\.filecache
+C:\Users\Utilisateur\expense_manager\.dart_tool\flutter_build\83e8de9a5871f5698aea4772f6ae5a2e\app.dill
+C:\Users\Utilisateur\expense_manager\.dart_tool\flutter_build\83e8de9a5871f5698aea4772f6ae5a2e\dart_build.d
+C:\Users\Utilisateur\expense_manager\.dart_tool\flutter_build\83e8de9a5871f5698aea4772f6ae5a2e\dart_build.stamp
+C:\Users\Utilisateur\expense_manager\.dart_tool\flutter_build\83e8de9a5871f5698aea4772f6ae5a2e\dart_build_result.json
+C:\Users\Utilisateur\expense_manager\.dart_tool\flutter_build\83e8de9a5871f5698aea4772f6ae5a2e\debug_bundle_windows-x64_assets.stamp
+C:\Users\Utilisateur\expense_manager\.dart_tool\flutter_build\83e8de9a5871f5698aea4772f6ae5a2e\flutter_assets.d
+C:\Users\Utilisateur\expense_manager\.dart_tool\flutter_build\83e8de9a5871f5698aea4772f6ae5a2e\gen_dart_plugin_registrant.stamp
+C:\Users\Utilisateur\expense_manager\.dart_tool\flutter_build\83e8de9a5871f5698aea4772f6ae5a2e\gen_localizations.stamp
+C:\Users\Utilisateur\expense_manager\.dart_tool\flutter_build\83e8de9a5871f5698aea4772f6ae5a2e\install_code_assets.d
+C:\Users\Utilisateur\expense_manager\.dart_tool\flutter_build\83e8de9a5871f5698aea4772f6ae5a2e\install_code_assets.stamp
+C:\Users\Utilisateur\expense_manager\.dart_tool\flutter_build\83e8de9a5871f5698aea4772f6ae5a2e\kernel_snapshot_program.d
+C:\Users\Utilisateur\expense_manager\.dart_tool\flutter_build\83e8de9a5871f5698aea4772f6ae5a2e\kernel_snapshot_program.stamp
+C:\Users\Utilisateur\expense_manager\.dart_tool\flutter_build\83e8de9a5871f5698aea4772f6ae5a2e\native_assets.json
+C:\Users\Utilisateur\expense_manager\.dart_tool\flutter_build\83e8de9a5871f5698aea4772f6ae5a2e\outputs.json
+C:\Users\Utilisateur\expense_manager\.dart_tool\flutter_build\83e8de9a5871f5698aea4772f6ae5a2e\unpack_windows.stamp
+C:\Users\Utilisateur\expense_manager\.dart_tool\flutter_build\83e8de9a5871f5698aea4772f6ae5a2e\windows_engine_sources.d
+C:\Users\Utilisateur\expense_manager\.dart_tool\flutter_build\dart_plugin_registrant.dart
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\objective_c
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\objective_c\337ce265dc
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\objective_c\337ce265dc\.lock
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\objective_c\337ce265dc\dependencies.dependencies_hash_file.json
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\objective_c\337ce265dc\hook.dependencies_hash_file.json
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\objective_c\337ce265dc\hook.dill
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\objective_c\337ce265dc\hook.dill.d
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\objective_c\337ce265dc\input.json
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\objective_c\337ce265dc\out
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\objective_c\337ce265dc\output.json
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\objective_c\337ce265dc\stderr.txt
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\objective_c\337ce265dc\stdout.txt
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\objective_c\63dc6ceb2b
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\objective_c\63dc6ceb2b\.lock
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\objective_c\63dc6ceb2b\dependencies.dependencies_hash_file.json
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\objective_c\63dc6ceb2b\hook.dependencies_hash_file.json
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\objective_c\63dc6ceb2b\hook.dill
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\objective_c\63dc6ceb2b\hook.dill.d
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\objective_c\63dc6ceb2b\input.json
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\objective_c\63dc6ceb2b\out
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\objective_c\63dc6ceb2b\output.json
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\objective_c\63dc6ceb2b\stderr.txt
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\objective_c\63dc6ceb2b\stdout.txt
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\shared
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\shared\objective_c
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\shared\objective_c\.lock
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\shared\objective_c\build
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\shared\objective_c\build\337ce265dc
+C:\Users\Utilisateur\expense_manager\.dart_tool\hooks_runner\shared\objective_c\build\63dc6ceb2b
+C:\Users\Utilisateur\expense_manager\.dart_tool\package_config.json
+C:\Users\Utilisateur\expense_manager\.dart_tool\package_graph.json
+C:\Users\Utilisateur\expense_manager\.dart_tool\pub
+C:\Users\Utilisateur\expense_manager\.dart_tool\pub\bin
+C:\Users\Utilisateur\expense_manager\.dart_tool\pub\bin\build_runner
+C:\Users\Utilisateur\expense_manager\.dart_tool\pub\bin\build_runner\build_runner.dart-3.12.2.snapshot
+C:\Users\Utilisateur\expense_manager\.dart_tool\version
+C:\Users\Utilisateur\expense_manager\.flutter-plugins-dependencies
+C:\Users\Utilisateur\expense_manager\.gitignore
+C:\Users\Utilisateur\expense_manager\.idea
+C:\Users\Utilisateur\expense_manager\.idea\libraries
+C:\Users\Utilisateur\expense_manager\.idea\libraries\Dart_SDK.xml
+C:\Users\Utilisateur\expense_manager\.idea\libraries\KotlinJavaRuntime.xml
+C:\Users\Utilisateur\expense_manager\.idea\modules.xml
+C:\Users\Utilisateur\expense_manager\.idea\runConfigurations
+C:\Users\Utilisateur\expense_manager\.idea\runConfigurations\main_dart.xml
+C:\Users\Utilisateur\expense_manager\.idea\workspace.xml
+C:\Users\Utilisateur\expense_manager\.metadata
+C:\Users\Utilisateur\expense_manager\.vscode
+C:\Users\Utilisateur\expense_manager\.vscode\settings.json
+C:\Users\Utilisateur\expense_manager\analysis_options.yaml
+C:\Users\Utilisateur\expense_manager\android
+C:\Users\Utilisateur\expense_manager\android\.gitignore
+C:\Users\Utilisateur\expense_manager\android\app
+C:\Users\Utilisateur\expense_manager\android\app\build.gradle.kts
+C:\Users\Utilisateur\expense_manager\android\app\src
+C:\Users\Utilisateur\expense_manager\android\app\src\debug
+C:\Users\Utilisateur\expense_manager\android\app\src\debug\AndroidManifest.xml
+C:\Users\Utilisateur\expense_manager\android\app\src\main
+C:\Users\Utilisateur\expense_manager\android\app\src\main\AndroidManifest.xml
+C:\Users\Utilisateur\expense_manager\android\app\src\main\java
+C:\Users\Utilisateur\expense_manager\android\app\src\main\java\io
+C:\Users\Utilisateur\expense_manager\android\app\src\main\java\io\flutter
+C:\Users\Utilisateur\expense_manager\android\app\src\main\java\io\flutter\plugins
+C:\Users\Utilisateur\expense_manager\android\app\src\main\java\io\flutter\plugins\GeneratedPluginRegistrant.java
+C:\Users\Utilisateur\expense_manager\android\app\src\main\kotlin
+C:\Users\Utilisateur\expense_manager\android\app\src\main\kotlin\com
+C:\Users\Utilisateur\expense_manager\android\app\src\main\kotlin\com\example
+C:\Users\Utilisateur\expense_manager\android\app\src\main\kotlin\com\example\expense_manager
+C:\Users\Utilisateur\expense_manager\android\app\src\main\kotlin\com\example\expense_manager\MainActivity.kt
+C:\Users\Utilisateur\expense_manager\android\app\src\main\res
+C:\Users\Utilisateur\expense_manager\android\app\src\main\res\drawable
+C:\Users\Utilisateur\expense_manager\android\app\src\main\res\drawable\launch_background.xml
+C:\Users\Utilisateur\expense_manager\android\app\src\main\res\drawable-v21
+C:\Users\Utilisateur\expense_manager\android\app\src\main\res\drawable-v21\launch_background.xml
+C:\Users\Utilisateur\expense_manager\android\app\src\main\res\mipmap-hdpi
+C:\Users\Utilisateur\expense_manager\android\app\src\main\res\mipmap-hdpi\ic_launcher.png
+C:\Users\Utilisateur\expense_manager\android\app\src\main\res\mipmap-mdpi
+C:\Users\Utilisateur\expense_manager\android\app\src\main\res\mipmap-mdpi\ic_launcher.png
+C:\Users\Utilisateur\expense_manager\android\app\src\main\res\mipmap-xhdpi
+C:\Users\Utilisateur\expense_manager\android\app\src\main\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\Utilisateur\expense_manager\android\app\src\main\res\mipmap-xxhdpi
+C:\Users\Utilisateur\expense_manager\android\app\src\main\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\Utilisateur\expense_manager\android\app\src\main\res\mipmap-xxxhdpi
+C:\Users\Utilisateur\expense_manager\android\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\Utilisateur\expense_manager\android\app\src\main\res\values
+C:\Users\Utilisateur\expense_manager\android\app\src\main\res\values\styles.xml
+C:\Users\Utilisateur\expense_manager\android\app\src\main\res\values-night
+C:\Users\Utilisateur\expense_manager\android\app\src\main\res\values-night\styles.xml
+C:\Users\Utilisateur\expense_manager\android\app\src\profile
+C:\Users\Utilisateur\expense_manager\android\app\src\profile\AndroidManifest.xml
+C:\Users\Utilisateur\expense_manager\android\build.gradle.kts
+C:\Users\Utilisateur\expense_manager\android\expense_manager_android.iml
+C:\Users\Utilisateur\expense_manager\android\gradle
+C:\Users\Utilisateur\expense_manager\android\gradle.properties
+C:\Users\Utilisateur\expense_manager\android\gradle\wrapper
+C:\Users\Utilisateur\expense_manager\android\gradle\wrapper\gradle-wrapper.jar
+C:\Users\Utilisateur\expense_manager\android\gradle\wrapper\gradle-wrapper.properties
+C:\Users\Utilisateur\expense_manager\android\gradlew
+C:\Users\Utilisateur\expense_manager\android\gradlew.bat
+C:\Users\Utilisateur\expense_manager\android\local.properties
+C:\Users\Utilisateur\expense_manager\android\settings.gradle.kts
+C:\Users\Utilisateur\expense_manager\build
+C:\Users\Utilisateur\expense_manager\build\.last_build_id
+C:\Users\Utilisateur\expense_manager\build\1440e92da5fcea1003b944440c5fd1be.cache.dill.track.dill
+C:\Users\Utilisateur\expense_manager\build\cbc0b61b267bfc6a2dc78de09fb8ee8f
+C:\Users\Utilisateur\expense_manager\build\cbc0b61b267bfc6a2dc78de09fb8ee8f\_composite.stamp
+C:\Users\Utilisateur\expense_manager\build\cbc0b61b267bfc6a2dc78de09fb8ee8f\gen_dart_plugin_registrant.stamp
+C:\Users\Utilisateur\expense_manager\build\cbc0b61b267bfc6a2dc78de09fb8ee8f\gen_localizations.stamp
+C:\Users\Utilisateur\expense_manager\build\flutter_assets
+C:\Users\Utilisateur\expense_manager\build\flutter_assets\AssetManifest.bin
+C:\Users\Utilisateur\expense_manager\build\flutter_assets\AssetManifest.bin.json
+C:\Users\Utilisateur\expense_manager\build\flutter_assets\FontManifest.json
+C:\Users\Utilisateur\expense_manager\build\flutter_assets\fonts
+C:\Users\Utilisateur\expense_manager\build\flutter_assets\fonts\MaterialIcons-Regular.otf
+C:\Users\Utilisateur\expense_manager\build\flutter_assets\kernel_blob.bin
+C:\Users\Utilisateur\expense_manager\build\flutter_assets\NativeAssetsManifest.json
+C:\Users\Utilisateur\expense_manager\build\flutter_assets\NOTICES
+C:\Users\Utilisateur\expense_manager\build\flutter_assets\NOTICES.Z
+C:\Users\Utilisateur\expense_manager\build\flutter_assets\packages
+C:\Users\Utilisateur\expense_manager\build\flutter_assets\packages\cupertino_icons
+C:\Users\Utilisateur\expense_manager\build\flutter_assets\packages\cupertino_icons\assets
+C:\Users\Utilisateur\expense_manager\build\flutter_assets\packages\cupertino_icons\assets\CupertinoIcons.ttf
+C:\Users\Utilisateur\expense_manager\build\flutter_assets\shaders
+C:\Users\Utilisateur\expense_manager\build\flutter_assets\shaders\ink_sparkle.frag
+C:\Users\Utilisateur\expense_manager\build\flutter_assets\shaders\stretch_effect.frag
+C:\Users\Utilisateur\expense_manager\build\native_assets
+C:\Users\Utilisateur\expense_manager\build\native_assets\windows
+C:\Users\Utilisateur\expense_manager\build\windows
+C:\Users\Utilisateur\expense_manager\build\windows\x64
+C:\Users\Utilisateur\expense_manager\build\windows\x64\ALL_BUILD.dir
+C:\Users\Utilisateur\expense_manager\build\windows\x64\ALL_BUILD.dir\Debug
+C:\Users\Utilisateur\expense_manager\build\windows\x64\ALL_BUILD.dir\Profile
+C:\Users\Utilisateur\expense_manager\build\windows\x64\ALL_BUILD.dir\Release
+C:\Users\Utilisateur\expense_manager\build\windows\x64\ALL_BUILD.vcxproj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\ALL_BUILD.vcxproj.filters
+C:\Users\Utilisateur\expense_manager\build\windows\x64\cmake_install.cmake
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeCache.txt
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\097fa2ec3adaa5fe4e8047d662ee01b3
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\097fa2ec3adaa5fe4e8047d662ee01b3\INSTALL_force.rule
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CMakeCCompiler.cmake
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CMakeCXXCompiler.cmake
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CMakeDetermineCompilerABI_C.bin
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CMakeDetermineCompilerABI_CXX.bin
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CMakeRCCompiler.cmake
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CMakeSystem.cmake
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdC
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdC\CMakeCCompilerId.c
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdC\CompilerIdC.exe
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdC\CompilerIdC.vcxproj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdC\Debug
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdC\Debug\CMakeCCompilerId.obj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdC\Debug\CompilerIdC.exe.recipe
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdC\Debug\CompilerIdC.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdC\Debug\CompilerIdC.tlog\CL.command.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdC\Debug\CompilerIdC.tlog\Cl.items.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdC\Debug\CompilerIdC.tlog\CL.read.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdC\Debug\CompilerIdC.tlog\CL.write.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdC\Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdC\Debug\CompilerIdC.tlog\link.command.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdC\Debug\CompilerIdC.tlog\link.read.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdC\Debug\CompilerIdC.tlog\link.secondary.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdC\Debug\CompilerIdC.tlog\link.write.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdC\tmp
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdCXX
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdCXX\CMakeCXXCompilerId.cpp
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdCXX\CompilerIdCXX.exe
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdCXX\CompilerIdCXX.vcxproj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdCXX\Debug
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdCXX\Debug\CMakeCXXCompilerId.obj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdCXX\Debug\CompilerIdCXX.exe.recipe
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdCXX\Debug\CompilerIdCXX.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdCXX\Debug\CompilerIdCXX.tlog\CL.command.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdCXX\Debug\CompilerIdCXX.tlog\Cl.items.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdCXX\Debug\CompilerIdCXX.tlog\CL.read.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdCXX\Debug\CompilerIdCXX.tlog\CL.write.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdCXX\Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdCXX\Debug\CompilerIdCXX.tlog\link.command.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdCXX\Debug\CompilerIdCXX.tlog\link.read.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdCXX\Debug\CompilerIdCXX.tlog\link.secondary.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdCXX\Debug\CompilerIdCXX.tlog\link.write.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\CompilerIdCXX\tmp
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\VCTargetsPath
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\VCTargetsPath.txt
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\VCTargetsPath.vcxproj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\VCTargetsPath\x64
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\VCTargetsPath\x64\Debug
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\VCTargetsPath\x64\Debug\VCTargetsPath.recipe
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\VCTargetsPath\x64\Debug\VCTargetsPath.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\VCTargetsPath\x64\Debug\VCTargetsPath.tlog\VCTargetsPath.lastbuildstate
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\x64
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\4.2.3-msvc3\x64\Debug
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\44248aa5e1a8817d62a6b509db0f2a1a
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\44248aa5e1a8817d62a6b509db0f2a1a\generate.stamp.rule
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\44248aa5e1a8817d62a6b509db0f2a1a\INSTALL_force.rule
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\637f9b9e926c2e0a4a3991c27ad7bcb2
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\637f9b9e926c2e0a4a3991c27ad7bcb2\INSTALL_force.rule
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\702061199ec67efab6feed478034457a
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\702061199ec67efab6feed478034457a\INSTALL_force.rule
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\8c53d0692cc607da99517e135f0094bd
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\8c53d0692cc607da99517e135f0094bd\flutter_assemble.rule
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\8c53d0692cc607da99517e135f0094bd\INSTALL_force.rule
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\cmake.check_cache
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\CMakeConfigureLog.yaml
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\e528343bf6fc1a8fb2045bd80c7b9d62
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\e528343bf6fc1a8fb2045bd80c7b9d62\flutter_windows.dll.rule
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\generate.stamp
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\generate.stamp.depend
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\generate.stamp.list
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\InstallScripts.json
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\pkgRedirects
+C:\Users\Utilisateur\expense_manager\build\windows\x64\CMakeFiles\TargetDirectories.txt
+C:\Users\Utilisateur\expense_manager\build\windows\x64\expense_manager.slnx
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\cmake_install.cmake
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\CMakeFiles
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\CMakeFiles\generate.stamp
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\CMakeFiles\generate.stamp.depend
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\Debug
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\Debug\flutter_wrapper_app.lib
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\Debug\flutter_wrapper_app.pdb
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\Debug\flutter_wrapper_plugin.lib
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\Debug\flutter_wrapper_plugin.pdb
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_assemble.dir
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_assemble.dir\Debug
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_assemble.dir\Profile
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_assemble.dir\Release
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_assemble.vcxproj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_assemble.vcxproj.filters
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_app.dir
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_app.dir\Debug
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_app.dir\Debug\core_implementations.obj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_app.dir\Debug\flutter_.42A26E1C.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_app.dir\Debug\flutter_.42A26E1C.tlog\CL.command.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_app.dir\Debug\flutter_.42A26E1C.tlog\Cl.items.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_app.dir\Debug\flutter_.42A26E1C.tlog\CL.read.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_app.dir\Debug\flutter_.42A26E1C.tlog\CL.write.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_app.dir\Debug\flutter_.42A26E1C.tlog\CustomBuild.command.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_app.dir\Debug\flutter_.42A26E1C.tlog\CustomBuild.read.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_app.dir\Debug\flutter_.42A26E1C.tlog\CustomBuild.write.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_app.dir\Debug\flutter_.42A26E1C.tlog\flutter_wrapper_app.lastbuildstate
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_app.dir\Debug\flutter_.42A26E1C.tlog\Lib.command.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_app.dir\Debug\flutter_.42A26E1C.tlog\Lib-link.read.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_app.dir\Debug\flutter_.42A26E1C.tlog\Lib-link.write.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_app.dir\Debug\flutter_engine.obj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_app.dir\Debug\flutter_view_controller.obj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_app.dir\Debug\flutter_wrapper_app.lib.recipe
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_app.dir\Debug\standard_codec.obj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_app.dir\Profile
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_app.dir\Release
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_app.vcxproj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_app.vcxproj.filters
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_plugin.dir
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_plugin.dir\Debug
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_plugin.dir\Debug\core_implementations.obj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_plugin.dir\Debug\flutter_.0E2C5CC5.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_plugin.dir\Debug\flutter_.0E2C5CC5.tlog\CL.command.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_plugin.dir\Debug\flutter_.0E2C5CC5.tlog\Cl.items.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_plugin.dir\Debug\flutter_.0E2C5CC5.tlog\CL.read.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_plugin.dir\Debug\flutter_.0E2C5CC5.tlog\CL.write.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_plugin.dir\Debug\flutter_.0E2C5CC5.tlog\CustomBuild.command.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_plugin.dir\Debug\flutter_.0E2C5CC5.tlog\CustomBuild.read.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_plugin.dir\Debug\flutter_.0E2C5CC5.tlog\CustomBuild.write.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_plugin.dir\Debug\flutter_.0E2C5CC5.tlog\flutter_wrapper_plugin.lastbuildstate
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_plugin.dir\Debug\flutter_.0E2C5CC5.tlog\Lib.command.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_plugin.dir\Debug\flutter_.0E2C5CC5.tlog\Lib-link.read.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_plugin.dir\Debug\flutter_.0E2C5CC5.tlog\Lib-link.write.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_plugin.dir\Debug\flutter_wrapper_plugin.lib.recipe
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_plugin.dir\Debug\plugin_registrar.obj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_plugin.dir\Debug\standard_codec.obj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_plugin.dir\Profile
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_plugin.dir\Release
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_plugin.vcxproj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\flutter_wrapper_plugin.vcxproj.filters
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\INSTALL.dir
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\INSTALL.dir\Debug
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\INSTALL.dir\Profile
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\INSTALL.dir\Release
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\INSTALL.vcxproj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\INSTALL.vcxproj.filters
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\x64
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\x64\Debug
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\x64\Debug\flutter_assemble
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\x64\Debug\flutter_assemble\flutter_assemble.recipe
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\x64\Debug\flutter_assemble\flutter_assemble.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\x64\Debug\flutter_assemble\flutter_assemble.tlog\CustomBuild.command.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\x64\Debug\flutter_assemble\flutter_assemble.tlog\CustomBuild.read.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\x64\Debug\flutter_assemble\flutter_assemble.tlog\CustomBuild.write.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\flutter\x64\Debug\flutter_assemble\flutter_assemble.tlog\flutter_assemble.lastbuildstate
+C:\Users\Utilisateur\expense_manager\build\windows\x64\INSTALL.dir
+C:\Users\Utilisateur\expense_manager\build\windows\x64\INSTALL.dir\Debug
+C:\Users\Utilisateur\expense_manager\build\windows\x64\INSTALL.dir\Profile
+C:\Users\Utilisateur\expense_manager\build\windows\x64\INSTALL.dir\Release
+C:\Users\Utilisateur\expense_manager\build\windows\x64\INSTALL.vcxproj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\INSTALL.vcxproj.filters
+C:\Users\Utilisateur\expense_manager\build\windows\x64\install_manifest.txt
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\ALL_BUILD.dir
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\ALL_BUILD.dir\Debug
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\ALL_BUILD.dir\Profile
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\ALL_BUILD.dir\Release
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\ALL_BUILD.vcxproj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\ALL_BUILD.vcxproj.filters
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\cmake_install.cmake
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\CMakeFiles
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\CMakeFiles\generate.stamp
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\CMakeFiles\generate.stamp.depend
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\INSTALL.dir
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\INSTALL.dir\Debug
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\INSTALL.dir\Profile
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\INSTALL.dir\Release
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\INSTALL.vcxproj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\INSTALL.vcxproj.filters
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\jni.slnx
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\shared
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\shared\ALL_BUILD.dir
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\shared\ALL_BUILD.dir\Debug
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\shared\ALL_BUILD.dir\Profile
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\shared\ALL_BUILD.dir\Release
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\shared\ALL_BUILD.vcxproj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\shared\ALL_BUILD.vcxproj.filters
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\shared\cmake_install.cmake
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\shared\CMakeFiles
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\shared\CMakeFiles\generate.stamp
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\shared\CMakeFiles\generate.stamp.depend
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\shared\INSTALL.dir
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\shared\INSTALL.dir\Debug
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\shared\INSTALL.dir\Profile
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\shared\INSTALL.dir\Release
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\shared\INSTALL.vcxproj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\shared\INSTALL.vcxproj.filters
+C:\Users\Utilisateur\expense_manager\build\windows\x64\plugins\jni\shared\jni_library.slnx
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\ALL_BUILD.dir
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\ALL_BUILD.dir\Debug
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\ALL_BUILD.dir\Profile
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\ALL_BUILD.dir\Release
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\ALL_BUILD.vcxproj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\ALL_BUILD.vcxproj.filters
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\cmake_install.cmake
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\CMakeFiles
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\CMakeFiles\generate.stamp
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\CMakeFiles\generate.stamp.depend
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\Debug
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\Debug\data
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\Debug\data\flutter_assets
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\Debug\data\flutter_assets\AssetManifest.bin
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\Debug\data\flutter_assets\AssetManifest.bin.json
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\Debug\data\flutter_assets\FontManifest.json
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\Debug\data\flutter_assets\fonts
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\Debug\data\flutter_assets\fonts\MaterialIcons-Regular.otf
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\Debug\data\flutter_assets\kernel_blob.bin
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\Debug\data\flutter_assets\NativeAssetsManifest.json
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\Debug\data\flutter_assets\NOTICES
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\Debug\data\flutter_assets\NOTICES.Z
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\Debug\data\flutter_assets\packages
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\Debug\data\flutter_assets\packages\cupertino_icons
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\Debug\data\flutter_assets\packages\cupertino_icons\assets
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\Debug\data\flutter_assets\packages\cupertino_icons\assets\CupertinoIcons.ttf
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\Debug\data\flutter_assets\shaders
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\Debug\data\flutter_assets\shaders\ink_sparkle.frag
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\Debug\data\flutter_assets\shaders\stretch_effect.frag
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\Debug\data\icudtl.dat
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\Debug\expense_manager.exe
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\Debug\expense_manager.pdb
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\Debug\flutter_windows.dll
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Debug
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Debug\expense_manager.exe.recipe
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Debug\expense_manager.ilk
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Debug\expense_manager.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Debug\expense_manager.tlog\CL.command.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Debug\expense_manager.tlog\Cl.items.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Debug\expense_manager.tlog\CL.read.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Debug\expense_manager.tlog\CL.write.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Debug\expense_manager.tlog\CustomBuild.command.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Debug\expense_manager.tlog\CustomBuild.read.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Debug\expense_manager.tlog\CustomBuild.write.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Debug\expense_manager.tlog\expense_manager.lastbuildstate
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Debug\expense_manager.tlog\link.command.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Debug\expense_manager.tlog\link.read.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Debug\expense_manager.tlog\link.secondary.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Debug\expense_manager.tlog\link.write.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Debug\expense_manager.tlog\rc.command.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Debug\expense_manager.tlog\rc.read.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Debug\expense_manager.tlog\rc.write.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Debug\flutter_window.obj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Debug\generated_plugin_registrant.obj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Debug\main.obj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Debug\Runner.res
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Debug\utils.obj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Debug\vc145.pdb
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Debug\win32_window.obj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Profile
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.dir\Release
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.vcxproj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\expense_manager.vcxproj.filters
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\INSTALL.dir
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\INSTALL.dir\Debug
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\INSTALL.dir\Profile
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\INSTALL.dir\Release
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\INSTALL.vcxproj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\INSTALL.vcxproj.filters
+C:\Users\Utilisateur\expense_manager\build\windows\x64\runner\runner.slnx
+C:\Users\Utilisateur\expense_manager\build\windows\x64\x64
+C:\Users\Utilisateur\expense_manager\build\windows\x64\x64\Debug
+C:\Users\Utilisateur\expense_manager\build\windows\x64\x64\Debug\ALL_BUILD
+C:\Users\Utilisateur\expense_manager\build\windows\x64\x64\Debug\ALL_BUILD\ALL_BUILD.recipe
+C:\Users\Utilisateur\expense_manager\build\windows\x64\x64\Debug\ALL_BUILD\ALL_BUILD.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\x64\Debug\ALL_BUILD\ALL_BUILD.tlog\ALL_BUILD.lastbuildstate
+C:\Users\Utilisateur\expense_manager\build\windows\x64\x64\Debug\ALL_BUILD\ALL_BUILD.tlog\CustomBuild.command.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\x64\Debug\ALL_BUILD\ALL_BUILD.tlog\CustomBuild.read.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\x64\Debug\ALL_BUILD\ALL_BUILD.tlog\CustomBuild.write.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\x64\Debug\INSTALL
+C:\Users\Utilisateur\expense_manager\build\windows\x64\x64\Debug\INSTALL\INSTALL.recipe
+C:\Users\Utilisateur\expense_manager\build\windows\x64\x64\Debug\INSTALL\INSTALL.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\x64\Debug\INSTALL\INSTALL.tlog\CustomBuild.command.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\x64\Debug\INSTALL\INSTALL.tlog\CustomBuild.read.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\x64\Debug\INSTALL\INSTALL.tlog\CustomBuild.write.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\x64\Debug\INSTALL\INSTALL.tlog\INSTALL.lastbuildstate
+C:\Users\Utilisateur\expense_manager\build\windows\x64\x64\Debug\ZERO_CHECK
+C:\Users\Utilisateur\expense_manager\build\windows\x64\x64\Debug\ZERO_CHECK\ZERO_CHECK.recipe
+C:\Users\Utilisateur\expense_manager\build\windows\x64\x64\Debug\ZERO_CHECK\ZERO_CHECK.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\x64\Debug\ZERO_CHECK\ZERO_CHECK.tlog\CustomBuild.command.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\x64\Debug\ZERO_CHECK\ZERO_CHECK.tlog\CustomBuild.read.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\x64\Debug\ZERO_CHECK\ZERO_CHECK.tlog\CustomBuild.write.1.tlog
+C:\Users\Utilisateur\expense_manager\build\windows\x64\x64\Debug\ZERO_CHECK\ZERO_CHECK.tlog\ZERO_CHECK.lastbuildstate
+C:\Users\Utilisateur\expense_manager\build\windows\x64\ZERO_CHECK.dir
+C:\Users\Utilisateur\expense_manager\build\windows\x64\ZERO_CHECK.dir\Debug
+C:\Users\Utilisateur\expense_manager\build\windows\x64\ZERO_CHECK.dir\Profile
+C:\Users\Utilisateur\expense_manager\build\windows\x64\ZERO_CHECK.dir\Release
+C:\Users\Utilisateur\expense_manager\build\windows\x64\ZERO_CHECK.vcxproj
+C:\Users\Utilisateur\expense_manager\build\windows\x64\ZERO_CHECK.vcxproj.filters
+C:\Users\Utilisateur\expense_manager\expense_manager.iml
+C:\Users\Utilisateur\expense_manager\ios
+C:\Users\Utilisateur\expense_manager\ios\.gitignore
+C:\Users\Utilisateur\expense_manager\ios\Flutter
+C:\Users\Utilisateur\expense_manager\ios\Flutter\AppFrameworkInfo.plist
+C:\Users\Utilisateur\expense_manager\ios\Flutter\Debug.xcconfig
+C:\Users\Utilisateur\expense_manager\ios\Flutter\ephemeral
+C:\Users\Utilisateur\expense_manager\ios\Flutter\ephemeral\flutter_lldb_helper.py
+C:\Users\Utilisateur\expense_manager\ios\Flutter\ephemeral\flutter_lldbinit
+C:\Users\Utilisateur\expense_manager\ios\Flutter\ephemeral\flutter_native_integration.env
+C:\Users\Utilisateur\expense_manager\ios\Flutter\flutter_export_environment.sh
+C:\Users\Utilisateur\expense_manager\ios\Flutter\Generated.xcconfig
+C:\Users\Utilisateur\expense_manager\ios\Flutter\Release.xcconfig
+C:\Users\Utilisateur\expense_manager\ios\Runner
+C:\Users\Utilisateur\expense_manager\ios\Runner.xcodeproj
+C:\Users\Utilisateur\expense_manager\ios\Runner.xcodeproj\project.pbxproj
+C:\Users\Utilisateur\expense_manager\ios\Runner.xcodeproj\project.xcworkspace
+C:\Users\Utilisateur\expense_manager\ios\Runner.xcodeproj\project.xcworkspace\contents.xcworkspacedata
+C:\Users\Utilisateur\expense_manager\ios\Runner.xcodeproj\project.xcworkspace\xcshareddata
+C:\Users\Utilisateur\expense_manager\ios\Runner.xcodeproj\project.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist
+C:\Users\Utilisateur\expense_manager\ios\Runner.xcodeproj\project.xcworkspace\xcshareddata\WorkspaceSettings.xcsettings
+C:\Users\Utilisateur\expense_manager\ios\Runner.xcodeproj\xcshareddata
+C:\Users\Utilisateur\expense_manager\ios\Runner.xcodeproj\xcshareddata\xcschemes
+C:\Users\Utilisateur\expense_manager\ios\Runner.xcodeproj\xcshareddata\xcschemes\Runner.xcscheme
+C:\Users\Utilisateur\expense_manager\ios\Runner.xcworkspace
+C:\Users\Utilisateur\expense_manager\ios\Runner.xcworkspace\contents.xcworkspacedata
+C:\Users\Utilisateur\expense_manager\ios\Runner.xcworkspace\xcshareddata
+C:\Users\Utilisateur\expense_manager\ios\Runner.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist
+C:\Users\Utilisateur\expense_manager\ios\Runner.xcworkspace\xcshareddata\WorkspaceSettings.xcsettings
+C:\Users\Utilisateur\expense_manager\ios\Runner\AppDelegate.swift
+C:\Users\Utilisateur\expense_manager\ios\Runner\Assets.xcassets
+C:\Users\Utilisateur\expense_manager\ios\Runner\Assets.xcassets\AppIcon.appiconset
+C:\Users\Utilisateur\expense_manager\ios\Runner\Assets.xcassets\AppIcon.appiconset\Contents.json
+C:\Users\Utilisateur\expense_manager\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-1024x1024@1x.png
+C:\Users\Utilisateur\expense_manager\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-20x20@1x.png
+C:\Users\Utilisateur\expense_manager\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-20x20@2x.png
+C:\Users\Utilisateur\expense_manager\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-20x20@3x.png
+C:\Users\Utilisateur\expense_manager\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-29x29@1x.png
+C:\Users\Utilisateur\expense_manager\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-29x29@2x.png
+C:\Users\Utilisateur\expense_manager\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-29x29@3x.png
+C:\Users\Utilisateur\expense_manager\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-40x40@1x.png
+C:\Users\Utilisateur\expense_manager\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-40x40@2x.png
+C:\Users\Utilisateur\expense_manager\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-40x40@3x.png
+C:\Users\Utilisateur\expense_manager\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-60x60@2x.png
+C:\Users\Utilisateur\expense_manager\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-60x60@3x.png
+C:\Users\Utilisateur\expense_manager\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-76x76@1x.png
+C:\Users\Utilisateur\expense_manager\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-76x76@2x.png
+C:\Users\Utilisateur\expense_manager\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-83.5x83.5@2x.png
+C:\Users\Utilisateur\expense_manager\ios\Runner\Assets.xcassets\LaunchImage.imageset
+C:\Users\Utilisateur\expense_manager\ios\Runner\Assets.xcassets\LaunchImage.imageset\Contents.json
+C:\Users\Utilisateur\expense_manager\ios\Runner\Assets.xcassets\LaunchImage.imageset\LaunchImage.png
+C:\Users\Utilisateur\expense_manager\ios\Runner\Assets.xcassets\LaunchImage.imageset\LaunchImage@2x.png
+C:\Users\Utilisateur\expense_manager\ios\Runner\Assets.xcassets\LaunchImage.imageset\LaunchImage@3x.png
+C:\Users\Utilisateur\expense_manager\ios\Runner\Assets.xcassets\LaunchImage.imageset\README.md
+C:\Users\Utilisateur\expense_manager\ios\Runner\Base.lproj
+C:\Users\Utilisateur\expense_manager\ios\Runner\Base.lproj\LaunchScreen.storyboard
+C:\Users\Utilisateur\expense_manager\ios\Runner\Base.lproj\Main.storyboard
+C:\Users\Utilisateur\expense_manager\ios\Runner\GeneratedPluginRegistrant.h
+C:\Users\Utilisateur\expense_manager\ios\Runner\GeneratedPluginRegistrant.m
+C:\Users\Utilisateur\expense_manager\ios\Runner\Info.plist
+C:\Users\Utilisateur\expense_manager\ios\Runner\Runner-Bridging-Header.h
+C:\Users\Utilisateur\expense_manager\ios\Runner\SceneDelegate.swift
+C:\Users\Utilisateur\expense_manager\ios\RunnerTests
+C:\Users\Utilisateur\expense_manager\ios\RunnerTests\RunnerTests.swift
+C:\Users\Utilisateur\expense_manager\lib
+C:\Users\Utilisateur\expense_manager\lib\database
+C:\Users\Utilisateur\expense_manager\lib\database\hive_database.dart
+C:\Users\Utilisateur\expense_manager\lib\main.dart
+C:\Users\Utilisateur\expense_manager\lib\models
+C:\Users\Utilisateur\expense_manager\lib\models\budget.dart
+C:\Users\Utilisateur\expense_manager\lib\models\budget.g.dart
+C:\Users\Utilisateur\expense_manager\lib\models\expense.dart
+C:\Users\Utilisateur\expense_manager\lib\models\expense.g.dart
+C:\Users\Utilisateur\expense_manager\lib\models\financial_goal.dart
+C:\Users\Utilisateur\expense_manager\lib\models\income.dart
+C:\Users\Utilisateur\expense_manager\lib\models\income.g.dart
+C:\Users\Utilisateur\expense_manager\lib\screens
+C:\Users\Utilisateur\expense_manager\lib\screens\add_transaction_screen.dart
+C:\Users\Utilisateur\expense_manager\lib\screens\budget_screen.dart
+C:\Users\Utilisateur\expense_manager\lib\screens\expense_detail_screen.dart
+C:\Users\Utilisateur\expense_manager\lib\screens\home_screen.dart
+C:\Users\Utilisateur\expense_manager\lib\screens\income_detail_screen.dart
+C:\Users\Utilisateur\expense_manager\lib\screens\main_navigation.dart
+C:\Users\Utilisateur\expense_manager\lib\screens\settings_screen.dart
+C:\Users\Utilisateur\expense_manager\lib\screens\statistics_screnn.dart
+C:\Users\Utilisateur\expense_manager\lib\screens\transactions_screen.dart
+C:\Users\Utilisateur\expense_manager\lib\services
+C:\Users\Utilisateur\expense_manager\lib\services\budget_service.dart
+C:\Users\Utilisateur\expense_manager\lib\services\expense_service.dart
+C:\Users\Utilisateur\expense_manager\lib\services\income_service.dart
+C:\Users\Utilisateur\expense_manager\lib\theme
+C:\Users\Utilisateur\expense_manager\lib\theme\app_colors.dart
+C:\Users\Utilisateur\expense_manager\lib\theme\app_theme.dart
+C:\Users\Utilisateur\expense_manager\lib\widgets
+C:\Users\Utilisateur\expense_manager\lib\widgets\balance_card.dart
+C:\Users\Utilisateur\expense_manager\lib\widgets\budget_progress.dart
+C:\Users\Utilisateur\expense_manager\lib\widgets\chart_widget.dart
+C:\Users\Utilisateur\expense_manager\lib\widgets\expense_card.dart
+C:\Users\Utilisateur\expense_manager\lib\widgets\income_card.dart
+C:\Users\Utilisateur\expense_manager\linux
+C:\Users\Utilisateur\expense_manager\linux\.gitignore
+C:\Users\Utilisateur\expense_manager\linux\CMakeLists.txt
+C:\Users\Utilisateur\expense_manager\linux\flutter
+C:\Users\Utilisateur\expense_manager\linux\flutter\CMakeLists.txt
+C:\Users\Utilisateur\expense_manager\linux\flutter\ephemeral
+C:\Users\Utilisateur\expense_manager\linux\flutter\ephemeral\.plugin_symlinks
+C:\Users\Utilisateur\expense_manager\linux\flutter\ephemeral\.plugin_symlinks\jni
+C:\Users\Utilisateur\expense_manager\linux\flutter\ephemeral\.plugin_symlinks\path_provider_linux
+C:\Users\Utilisateur\expense_manager\linux\flutter\generated_plugin_registrant.cc
+C:\Users\Utilisateur\expense_manager\linux\flutter\generated_plugin_registrant.h
+C:\Users\Utilisateur\expense_manager\linux\flutter\generated_plugins.cmake
+C:\Users\Utilisateur\expense_manager\linux\runner
+C:\Users\Utilisateur\expense_manager\linux\runner\CMakeLists.txt
+C:\Users\Utilisateur\expense_manager\linux\runner\main.cc
+C:\Users\Utilisateur\expense_manager\linux\runner\my_application.cc
+C:\Users\Utilisateur\expense_manager\linux\runner\my_application.h
+C:\Users\Utilisateur\expense_manager\macos
+C:\Users\Utilisateur\expense_manager\macos\.gitignore
+C:\Users\Utilisateur\expense_manager\macos\Flutter
+C:\Users\Utilisateur\expense_manager\macos\Flutter\ephemeral
+C:\Users\Utilisateur\expense_manager\macos\Flutter\ephemeral\flutter_export_environment.sh
+C:\Users\Utilisateur\expense_manager\macos\Flutter\ephemeral\flutter_native_integration.env
+C:\Users\Utilisateur\expense_manager\macos\Flutter\ephemeral\Flutter-Generated.xcconfig
+C:\Users\Utilisateur\expense_manager\macos\Flutter\Flutter-Debug.xcconfig
+C:\Users\Utilisateur\expense_manager\macos\Flutter\Flutter-Release.xcconfig
+C:\Users\Utilisateur\expense_manager\macos\Flutter\GeneratedPluginRegistrant.swift
+C:\Users\Utilisateur\expense_manager\macos\Runner
+C:\Users\Utilisateur\expense_manager\macos\Runner.xcodeproj
+C:\Users\Utilisateur\expense_manager\macos\Runner.xcodeproj\project.pbxproj
+C:\Users\Utilisateur\expense_manager\macos\Runner.xcodeproj\project.xcworkspace
+C:\Users\Utilisateur\expense_manager\macos\Runner.xcodeproj\project.xcworkspace\xcshareddata
+C:\Users\Utilisateur\expense_manager\macos\Runner.xcodeproj\project.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist
+C:\Users\Utilisateur\expense_manager\macos\Runner.xcodeproj\xcshareddata
+C:\Users\Utilisateur\expense_manager\macos\Runner.xcodeproj\xcshareddata\xcschemes
+C:\Users\Utilisateur\expense_manager\macos\Runner.xcodeproj\xcshareddata\xcschemes\Runner.xcscheme
+C:\Users\Utilisateur\expense_manager\macos\Runner.xcworkspace
+C:\Users\Utilisateur\expense_manager\macos\Runner.xcworkspace\contents.xcworkspacedata
+C:\Users\Utilisateur\expense_manager\macos\Runner.xcworkspace\xcshareddata
+C:\Users\Utilisateur\expense_manager\macos\Runner.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist
+C:\Users\Utilisateur\expense_manager\macos\Runner\AppDelegate.swift
+C:\Users\Utilisateur\expense_manager\macos\Runner\Assets.xcassets
+C:\Users\Utilisateur\expense_manager\macos\Runner\Assets.xcassets\AppIcon.appiconset
+C:\Users\Utilisateur\expense_manager\macos\Runner\Assets.xcassets\AppIcon.appiconset\app_icon_1024.png
+C:\Users\Utilisateur\expense_manager\macos\Runner\Assets.xcassets\AppIcon.appiconset\app_icon_128.png
+C:\Users\Utilisateur\expense_manager\macos\Runner\Assets.xcassets\AppIcon.appiconset\app_icon_16.png
+C:\Users\Utilisateur\expense_manager\macos\Runner\Assets.xcassets\AppIcon.appiconset\app_icon_256.png
+C:\Users\Utilisateur\expense_manager\macos\Runner\Assets.xcassets\AppIcon.appiconset\app_icon_32.png
+C:\Users\Utilisateur\expense_manager\macos\Runner\Assets.xcassets\AppIcon.appiconset\app_icon_512.png
+C:\Users\Utilisateur\expense_manager\macos\Runner\Assets.xcassets\AppIcon.appiconset\app_icon_64.png
+C:\Users\Utilisateur\expense_manager\macos\Runner\Assets.xcassets\AppIcon.appiconset\Contents.json
+C:\Users\Utilisateur\expense_manager\macos\Runner\Base.lproj
+C:\Users\Utilisateur\expense_manager\macos\Runner\Base.lproj\MainMenu.xib
+C:\Users\Utilisateur\expense_manager\macos\Runner\Configs
+C:\Users\Utilisateur\expense_manager\macos\Runner\Configs\AppInfo.xcconfig
+C:\Users\Utilisateur\expense_manager\macos\Runner\Configs\Debug.xcconfig
+C:\Users\Utilisateur\expense_manager\macos\Runner\Configs\Release.xcconfig
+C:\Users\Utilisateur\expense_manager\macos\Runner\Configs\Warnings.xcconfig
+C:\Users\Utilisateur\expense_manager\macos\Runner\DebugProfile.entitlements
+C:\Users\Utilisateur\expense_manager\macos\Runner\Info.plist
+C:\Users\Utilisateur\expense_manager\macos\Runner\MainFlutterWindow.swift
+C:\Users\Utilisateur\expense_manager\macos\Runner\Release.entitlements
+C:\Users\Utilisateur\expense_manager\macos\RunnerTests
+C:\Users\Utilisateur\expense_manager\macos\RunnerTests\RunnerTests.swift
+C:\Users\Utilisateur\expense_manager\project_files.txt
+C:\Users\Utilisateur\expense_manager\pubspec.lock
+C:\Users\Utilisateur\expense_manager\pubspec.yaml
+C:\Users\Utilisateur\expense_manager\README.md
+C:\Users\Utilisateur\expense_manager\test
+C:\Users\Utilisateur\expense_manager\test\widget_test.dart
+C:\Users\Utilisateur\expense_manager\web
+C:\Users\Utilisateur\expense_manager\web\favicon.png
+C:\Users\Utilisateur\expense_manager\web\icons
+C:\Users\Utilisateur\expense_manager\web\icons\Icon-192.png
+C:\Users\Utilisateur\expense_manager\web\icons\Icon-512.png
+C:\Users\Utilisateur\expense_manager\web\icons\Icon-maskable-192.png
+C:\Users\Utilisateur\expense_manager\web\icons\Icon-maskable-512.png
+C:\Users\Utilisateur\expense_manager\web\index.html
+C:\Users\Utilisateur\expense_manager\web\manifest.json
+C:\Users\Utilisateur\expense_manager\windows
+C:\Users\Utilisateur\expense_manager\windows\.gitignore
+C:\Users\Utilisateur\expense_manager\windows\CMakeLists.txt
+C:\Users\Utilisateur\expense_manager\windows\flutter
+C:\Users\Utilisateur\expense_manager\windows\flutter\CMakeLists.txt
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\.plugin_symlinks
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\.plugin_symlinks\jni
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\.plugin_symlinks\path_provider_windows
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\binary_messenger_impl.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\byte_buffer_streams.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\engine_method_result.cc
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\flutter_engine.cc
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\flutter_view_controller.cc
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include\flutter
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include\flutter\basic_message_channel.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include\flutter\binary_messenger.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include\flutter\byte_streams.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include\flutter\dart_project.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include\flutter\encodable_value.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include\flutter\engine_method_result.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include\flutter\event_channel.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include\flutter\event_sink.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include\flutter\event_stream_handler.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include\flutter\event_stream_handler_functions.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include\flutter\flutter_engine.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include\flutter\flutter_view.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include\flutter\flutter_view_controller.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include\flutter\message_codec.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include\flutter\method_call.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include\flutter\method_channel.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include\flutter\method_codec.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include\flutter\method_result.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include\flutter\method_result_functions.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include\flutter\plugin_registrar.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include\flutter\plugin_registrar_windows.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include\flutter\plugin_registry.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include\flutter\standard_codec_serializer.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include\flutter\standard_message_codec.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include\flutter\standard_method_codec.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\include\flutter\texture_registrar.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\plugin_registrar.cc
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\readme
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\cpp_client_wrapper\texture_registrar_impl.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\flutter_export.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\flutter_messenger.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\flutter_plugin_registrar.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\flutter_texture_registrar.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\flutter_windows.dll
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\flutter_windows.dll.exp
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\flutter_windows.dll.lib
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\flutter_windows.dll.pdb
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\flutter_windows.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\generated_config.cmake
+C:\Users\Utilisateur\expense_manager\windows\flutter\ephemeral\icudtl.dat
+C:\Users\Utilisateur\expense_manager\windows\flutter\generated_plugin_registrant.cc
+C:\Users\Utilisateur\expense_manager\windows\flutter\generated_plugin_registrant.h
+C:\Users\Utilisateur\expense_manager\windows\flutter\generated_plugins.cmake
+C:\Users\Utilisateur\expense_manager\windows\runner
+C:\Users\Utilisateur\expense_manager\windows\runner\CMakeLists.txt
+C:\Users\Utilisateur\expense_manager\windows\runner\flutter_window.cpp
+C:\Users\Utilisateur\expense_manager\windows\runner\flutter_window.h
+C:\Users\Utilisateur\expense_manager\windows\runner\main.cpp
+C:\Users\Utilisateur\expense_manager\windows\runner\resource.h
+C:\Users\Utilisateur\expense_manager\windows\runner\resources
+C:\Users\Utilisateur\expense_manager\windows\runner\resources\app_icon.ico
+C:\Users\Utilisateur\expense_manager\windows\runner\runner.exe.manifest
+C:\Users\Utilisateur\expense_manager\windows\runner\Runner.rc
+C:\Users\Utilisateur\expense_manager\windows\runner\utils.cpp
+C:\Users\Utilisateur\expense_manager\windows\runner\utils.h
+C:\Users\Utilisateur\expense_manager\windows\runner\win32_window.cpp
+C:\Users\Utilisateur\expense_manager\windows\runner\win32_window.h

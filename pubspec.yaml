@@ -1,0 +1,36 @@
+name: expense_manager
+description: Application de gestion financière personnelle
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.10.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+    
+
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  path_provider: ^2.1.1
+  uuid: ^4.2.1
+  cupertino_icons: ^1.0.6
+  fl_chart: ^1.2.0
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  hive_generator: ^2.0.1
+  build_runner: ^2.4.7
+  flutter_lints: ^3.0.0
+  hive_test: ^1.0.1 #Pour simuler Hive pendant les tests
+  path_provider_platform_interface: ^2.0.4 #Pour simuler path_provider pendant les tests
+  plugin_platform_interface: ^2.0.8 #Pour simuler les plugins pendant les tests
+
+flutter:
+  uses-material-design: true
+
+   

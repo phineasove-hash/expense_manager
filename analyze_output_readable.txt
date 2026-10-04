@@ -1,0 +1,71 @@
+﻿Analyzing expense_manager...                                    
+
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\screens\budget_screen.dart:100:21 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\screens\budget_screen.dart:100:50 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\screens\budget_screen.dart:109:30 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\screens\budget_screen.dart:115:15 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\screens\budget_screen.dart:117:24 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\screens\home_screen.dart:81:24 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes. Try adding 'const' before the literal - lib\screens\home_screen.dart:82:29 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\screens\home_screen.dart:83:21 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\screens\home_screen.dart:85:21 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\screens\home_screen.dart:86:30 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\screens\home_screen.dart:88:32 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\screens\home_screen.dart:108:15 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\screens\home_screen.dart:110:24 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\screens\home_screen.dart:111:26 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\screens\home_screen.dart:114:28 - prefer_const_constructors
+  error - The argument type 'CategoryPieChart' can't be assigned to the parameter type 'Widget'.  - lib\screens\statistics_screen.dart:124:55 - argument_type_not_assignable
+  error - The method 'BalanceLineChart' isn't defined for the type '_StatisticsScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'BalanceLineChart' - lib\screens\statistics_screen.dart:126:51 - undefined_method
+  error - The method 'WeekdayBarChart' isn't defined for the type '_StatisticsScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'WeekdayBarChart' - lib\screens\statistics_screen.dart:128:50 - undefined_method
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\screens\transactions_screen.dart:114:35 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\widgets\budget_progress.dart:46:11 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\widgets\budget_progress.dart:48:20 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\widgets\budget_progress.dart:83:24 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\widgets\budget_progress.dart:87:24 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\widgets\budget_progress.dart:100:28 - prefer_const_constructors
+  error - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause - lib\widgets\chart_widget.dart:2:32 - extends_non_class
+  error - No associated named super constructor parameter. Try changing the name to the name of an existing named super constructor parameter, or creating such named parameter - lib\widgets\chart_widget.dart:5:33 - super_formal_parameter_without_associated_named
+  error - Undefined class 'Widget'. Try changing the name to the name of an existing class, or creating a class with the name 'Widget' - lib\widgets\chart_widget.dart:8:3 - undefined_class
+warning - The method doesn't override an inherited method. Try updating this class to match the superclass, or removing the override annotation - lib\widgets\chart_widget.dart:8:10 - override_on_non_overriding_member
+  error - Undefined class 'BuildContext'. Try changing the name to the name of an existing class, or creating a class with the name 'BuildContext' - lib\widgets\chart_widget.dart:8:16 - undefined_class
+  error - The name 'SizedBox' isn't a class. Try correcting the name to match an existing class - lib\widgets\chart_widget.dart:10:20 - creation_with_non_type
+  error - The method 'Center' isn't defined for the type 'CategoryPieChart'. Try correcting the name to the name of an existing method, or defining a method named 'Center' - lib\widgets\chart_widget.dart:12:16 - undefined_method
+  error - The method 'Text' isn't defined for the type 'CategoryPieChart'. Try correcting the name to the name of an existing method, or defining a method named 'Text' - lib\widgets\chart_widget.dart:13:18 - undefined_method
+  error - The method 'TextStyle' isn't defined for the type 'CategoryPieChart'. Try correcting the name to the name of an existing method, or defining a method named 'TextStyle' - lib\widgets\chart_widget.dart:13:59 - undefined_method
+  error - Undefined name 'AppColors'. Try correcting the name to one that is defined, or defining the name - lib\widgets\chart_widget.dart:13:76 - undefined_identifier
+  error - The method 'Row' isn't defined for the type 'CategoryPieChart'. Try correcting the name to the name of an existing method, or defining a method named 'Row' - lib\widgets\chart_widget.dart:21:12 - undefined_method
+  error - The method 'SizedBox' isn't defined for the type 'CategoryPieChart'. Try correcting the name to the name of an existing method, or defining a method named 'SizedBox' - lib\widgets\chart_widget.dart:23:9 - undefined_method
+  error - The method 'PieChart' isn't defined for the type 'CategoryPieChart'. Try correcting the name to the name of an existing method, or defining a method named 'PieChart' - lib\widgets\chart_widget.dart:26:18 - undefined_method
+  error - The method 'PieChartData' isn't defined for the type 'CategoryPieChart'. Try correcting the name to the name of an existing method, or defining a method named 'PieChartData' - lib\widgets\chart_widget.dart:27:13 - undefined_method
+  error - The method 'PieChartSectionData' isn't defined for the type 'CategoryPieChart'. Try correcting the name to the name of an existing method, or defining a method named 'PieChartSectionData' - lib\widgets\chart_widget.dart:34:24 - undefined_method
+  error - The name 'TextStyle' isn't a class. Try correcting the name to match an existing class - lib\widgets\chart_widget.dart:39:37 - creation_with_non_type
+  error - Undefined name 'FontWeight'. Try correcting the name to one that is defined, or defining the name - lib\widgets\chart_widget.dart:39:73 - undefined_identifier
+  error - Undefined name 'Colors'. Try correcting the name to one that is defined, or defining the name - lib\widgets\chart_widget.dart:39:97 - undefined_identifier
+  error - The name 'SizedBox' isn't a class. Try correcting the name to match an existing class - lib\widgets\chart_widget.dart:45:15 - creation_with_non_type
+  error - The method 'Expanded' isn't defined for the type 'CategoryPieChart'. Try correcting the name to the name of an existing method, or defining a method named 'Expanded' - lib\widgets\chart_widget.dart:46:9 - undefined_method
+  error - The method 'Column' isn't defined for the type 'CategoryPieChart'. Try correcting the name to the name of an existing method, or defining a method named 'Column' - lib\widgets\chart_widget.dart:47:18 - undefined_method
+  error - Undefined name 'CrossAxisAlignment'. Try correcting the name to one that is defined, or defining the name - lib\widgets\chart_widget.dart:48:33 - undefined_identifier
+  error - Undefined name 'MainAxisSize'. Try correcting the name to one that is defined, or defining the name - lib\widgets\chart_widget.dart:49:27 - undefined_identifier
+  error - The method 'Padding' isn't defined for the type 'CategoryPieChart'. Try correcting the name to the name of an existing method, or defining a method named 'Padding' - lib\widgets\chart_widget.dart:51:22 - undefined_method
+  error - Undefined name 'EdgeInsets'. Try correcting the name to one that is defined, or defining the name - lib\widgets\chart_widget.dart:52:32 - undefined_identifier
+  error - The method 'Row' isn't defined for the type 'CategoryPieChart'. Try correcting the name to the name of an existing method, or defining a method named 'Row' - lib\widgets\chart_widget.dart:53:24 - undefined_method
+  error - The method 'Container' isn't defined for the type 'CategoryPieChart'. Try correcting the name to the name of an existing method, or defining a method named 'Container' - lib\widgets\chart_widget.dart:55:21 - undefined_method
+  error - The method 'BoxDecoration' isn't defined for the type 'CategoryPieChart'. Try correcting the name to the name of an existing method, or defining a method named 'BoxDecoration' - lib\widgets\chart_widget.dart:58:35 - undefined_method
+  error - Undefined name 'BoxShape'. Try correcting the name to one that is defined, or defining the name - lib\widgets\chart_widget.dart:58:97 - undefined_identifier
+  error - The name 'SizedBox' isn't a class. Try correcting the name to match an existing class - lib\widgets\chart_widget.dart:60:27 - creation_with_non_type
+  error - The method 'Expanded' isn't defined for the type 'CategoryPieChart'. Try correcting the name to the name of an existing method, or defining a method named 'Expanded' - lib\widgets\chart_widget.dart:61:21 - undefined_method
+  error - The method 'Text' isn't defined for the type 'CategoryPieChart'. Try correcting the name to the name of an existing method, or defining a method named 'Text' - lib\widgets\chart_widget.dart:62:30 - undefined_method
+  error - The name 'TextStyle' isn't a class. Try correcting the name to match an existing class - lib\widgets\chart_widget.dart:62:59 - creation_with_non_type
+  error - Undefined name 'TextOverflow'. Try correcting the name to one that is defined, or defining the name - lib\widgets\chart_widget.dart:62:94 - undefined_identifier
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\widgets\expense_card.dart:42:49 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance. Try adding the 'const' keyword to the constructor invocation - lib\widgets\income_card.dart:60:28 - prefer_const_constructors
+
+flutter : 60 issues found. (ran in 1.7s)
+Au caractère Ligne:1 : 1
++ flutter analyze > analyze_output.txt 2>&1
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (60 issues found. (ran in 1.7s):St 
+   ring) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
