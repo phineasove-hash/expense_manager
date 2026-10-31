@@ -140,13 +140,15 @@ class _HomeScreenState extends State<HomeScreen> {
         actions: [ 
         Builder(
           builder: (context) {
-            final alertCount = AlertService().getActiveAlerts().length;
+            final alertCount = AlertService().getUnseenCount();
             return Stack(
               children: [
                 IconButton(
                   icon: const Icon(Icons.notifications_outlined),
-                  onPressed: () {
-                    Navigator.push(context, MaterialPageRoute(builder: (context) => const NotificationsScreen()));
+                  onPressed: () async {
+                    await Navigator.push(context, MaterialPageRoute(builder: (context) => const NotificationsScreen()));
+                    // Au retour, on rafraîchit l'Accueil pour que le point rouge disparaisse.
+                    if (mounted) setState(() {});
                   },
                 ),
                // Petit badge rouge si au moins une alerte existe

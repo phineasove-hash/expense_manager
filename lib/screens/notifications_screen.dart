@@ -3,8 +3,20 @@ import 'package:flutter/material.dart';
 import '../services/alert_service.dart';
 import '../theme/app_colors.dart';
 
-class NotificationsScreen extends StatelessWidget {
+class NotificationsScreen extends StatefulWidget {
   const NotificationsScreen({super.key});
+
+  @override
+  State<NotificationsScreen> createState() => _NotificationsScreenState();
+}
+
+class _NotificationsScreenState extends State<NotificationsScreen> {
+  @override
+  void initState() {
+    super.initState();
+    // Dès que l'écran s'ouvre, les alertes actuelles sont considérées comme vues.
+    AlertService().markAllAsSeen();
+  }
 
   Color _colorForLevel(AlertLevel level) {
     switch (level) {
@@ -34,10 +46,7 @@ class NotificationsScreen extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text(
-          'Notifications',
-          style: TextStyle(fontWeight: FontWeight.bold),
-        ),
+        title: const Text('Notifications', style: TextStyle(fontWeight: FontWeight.bold)),
       ),
       body: alerts.isEmpty
           ? Center(
@@ -46,11 +55,7 @@ class NotificationsScreen extends StatelessWidget {
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
-                    Icon(
-                      Icons.notifications_none,
-                      size: 56,
-                      color: AppColors.textSecondary(context),
-                    ),
+                    Icon(Icons.notifications_none, size: 56, color: AppColors.textSecondary(context)),
                     const SizedBox(height: 16),
                     Text(
                       'Aucune notification pour le moment',
@@ -70,46 +75,51 @@ class NotificationsScreen extends StatelessWidget {
 
                 return Container(
                   margin: const EdgeInsets.only(bottom: 12),
-                  padding: const EdgeInsets.all(16),
+                  clipBehavior: Clip.antiAlias,
                   decoration: BoxDecoration(
                     color: AppColors.cardBackground(context),
                     borderRadius: BorderRadius.circular(14),
-                    border: Border(
-                      left: BorderSide(color: color, width: 4),
-                      top: BorderSide(color: AppColors.secondary.withValues(alpha: 0.06), width: 1),
-                      right: BorderSide(color: AppColors.secondary.withValues(alpha: 0.06), width: 1),
-                      bottom: BorderSide(color: AppColors.secondary.withValues(alpha: 0.06), width: 1),
-                    ),
+                    border: Border.all(color: AppColors.secondary.withValues(alpha: 0.06), width: 1),
                   ),
-                  child: Row(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      Icon(_iconForLevel(alert.level), color: color, size: 24),
-                      const SizedBox(width: 12),
-                      Expanded(
-                        child: Column(
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            Text(
-                              alert.title,
-                              style: TextStyle(
-                                fontWeight: FontWeight.bold,
-                                fontSize: 14,
-                                color: AppColors.textPrimary(context),
-                              ),
+                  child: IntrinsicHeight(
+                    child: Row(
+                      crossAxisAlignment: CrossAxisAlignment.stretch,
+                      children: [
+                        Container(width: 4, color: color),
+                        Expanded(
+                          child: Padding(
+                            padding: const EdgeInsets.all(16),
+                            child: Row(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                Icon(_iconForLevel(alert.level), color: color, size: 24),
+                                const SizedBox(width: 12),
+                                Expanded(
+                                  child: Column(
+                                    crossAxisAlignment: CrossAxisAlignment.start,
+                                    children: [
+                                      Text(
+                                        alert.title,
+                                        style: TextStyle(
+                                          fontWeight: FontWeight.bold,
+                                          fontSize: 14,
+                                          color: AppColors.textPrimary(context),
+                                        ),
+                                      ),
+                                      const SizedBox(height: 4),
+                                      Text(
+                                        alert.message,
+                                        style: TextStyle(fontSize: 13, color: AppColors.textSecondary(context)),
+                                      ),
+                                    ],
+                                  ),
+                                ),
+                              ],
                             ),
-                            const SizedBox(height: 4),
-                            Text(
-                              alert.message,
-                              style: TextStyle(
-                                fontSize: 13,
-                                color: AppColors.textSecondary(context),
-                              ),
-                            ),
-                          ],
+                          ),
                         ),
-                      ),
-                    ],
+                      ],
+                    ),
                   ),
                 );
               },
