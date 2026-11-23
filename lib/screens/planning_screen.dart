@@ -5,6 +5,7 @@ import '../services/plan_service.dart';
 import '../services/goal_service.dart';
 import '../services/category_service.dart';
 import '../theme/app_colors.dart';
+import '../utils/money_format.dart';
 import '../widgets/app_drawer.dart';
 import 'monthly_plan_review_screen.dart';
 
@@ -358,13 +359,13 @@ class _PlanningScreenState extends State<PlanningScreen> {
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
-                const Text(
+                Text(
                   'MON PLAN DU MOIS',
                   style: TextStyle(
                     fontSize: 12,
                     fontWeight: FontWeight.w700,
                     letterSpacing: 1.2,
-                    color: AppColors.gold,
+                    color: AppColors.goldText(context),
                   ),
                 ),
                 IconButton(
@@ -421,7 +422,7 @@ class _PlanningScreenState extends State<PlanningScreen> {
                             ),
                           ),
                           Text(
-                            '${actual.toStringAsFixed(0)} / ${planned.toStringAsFixed(0)} FCFA',
+                            '${formatAmount(actual)} / ${formatAmount(planned)} FCFA',
                             style: TextStyle(
                               fontSize: 12,
                               color: isOver
@@ -454,13 +455,13 @@ class _PlanningScreenState extends State<PlanningScreen> {
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
-                const Text(
+                Text(
                   'MES OBJECTIFS',
                   style: TextStyle(
                     fontSize: 12,
                     fontWeight: FontWeight.w700,
                     letterSpacing: 1.2,
-                    color: AppColors.gold,
+                    color: AppColors.goldText(context),
                   ),
                 ),
                 IconButton(
@@ -528,7 +529,7 @@ class _PlanningScreenState extends State<PlanningScreen> {
                       ),
                       const SizedBox(height: 6),
                       Text(
-                        '${goal.savedAmount.toStringAsFixed(0)} / ${goal.targetAmount.toStringAsFixed(0)} FCFA (${(goal.progressPercentage * 100).toStringAsFixed(0)}%)',
+                        '${formatAmount(goal.savedAmount)} / ${formatAmount(goal.targetAmount)} FCFA (${(goal.progressPercentage * 100).toStringAsFixed(0)}%)',
                         style: TextStyle(
                           fontSize: 12,
                           color: AppColors.textSecondary(context),

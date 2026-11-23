@@ -10,12 +10,17 @@ import '../services/goal_service.dart';
 import '../services/plan_service.dart';
 import '../theme/app_colors.dart';
 import '../theme/category_style.dart';
+import '../utils/money_format.dart';
 
 class AddTransactionScreen extends StatefulWidget {
   final Expense? existingExpense;
   final Income? existingIncome;
 
-  const AddTransactionScreen({super.key, this.existingExpense, this.existingIncome});
+  const AddTransactionScreen({
+    super.key,
+    this.existingExpense,
+    this.existingIncome,
+  });
 
   @override
   State<AddTransactionScreen> createState() => _AddTransactionScreenState();
@@ -42,7 +47,8 @@ class _AddTransactionScreenState extends State<AddTransactionScreen> {
   String selectedCategory = '';
   DateTime selectedDate = DateTime.now();
 
-  bool get isEditing => widget.existingExpense != null || widget.existingIncome != null;
+  bool get isEditing =>
+      widget.existingExpense != null || widget.existingIncome != null;
   Color get accentColor => isExpense ? AppColors.expense : AppColors.income;
 
   @override
@@ -96,14 +102,22 @@ class _AddTransactionScreenState extends State<AddTransactionScreen> {
   // ou l'utilisateur a confirmé malgré l'avertissement).
   Future<bool> _checkBudgetOverrun(double amount) async {
     final now = selectedDate;
-    final planItem = _planService.getPlanItemForCategory(selectedCategory, now.year, now.month);
+    final planItem = _planService.getPlanItemForCategory(
+      selectedCategory,
+      now.year,
+      now.month,
+    );
     if (planItem == null) return true;
 
     final monthStart = DateTime(now.year, now.month, 1);
     final monthEnd = DateTime(now.year, now.month + 1, 0);
     final expensesThisMonth = _expenseService
         .getExpensesBetween(monthStart, monthEnd)
-        .where((e) => e.category == selectedCategory && e.id != widget.existingExpense?.id);
+        .where(
+          (e) =>
+              e.category == selectedCategory &&
+              e.id != widget.existingExpense?.id,
+        );
     final alreadySpent = _expenseService.getTotal(expensesThisMonth.toList());
 
     final projectedTotal = alreadySpent + amount;
@@ -118,13 +132,19 @@ class _AddTransactionScreenState extends State<AddTransactionScreen> {
         title: const Text('Dépassement de budget'),
         content: Text(
           'Cette dépense ferait dépasser ton plan pour "$selectedCategory" '
-          'de ${overrun.toStringAsFixed(0)} FCFA ce mois-ci.\n\nTu veux quand même l\'enregistrer ?',
+          'de ${formatAmount(overrun)} FCFA ce mois-ci.\n\nTu veux quand même l\'enregistrer ?',
         ),
         actions: [
-          TextButton(onPressed: () => Navigator.pop(context, false), child: const Text('Annuler')),
+          TextButton(
+            onPressed: () => Navigator.pop(context, false),
+            child: const Text('Annuler'),
+          ),
           TextButton(
             onPressed: () => Navigator.pop(context, true),
-            child: const Text('Enregistrer quand même', style: TextStyle(color: Colors.red)),
+            child: const Text(
+              'Enregistrer quand même',
+              style: TextStyle(color: Colors.red),
+            ),
           ),
         ],
       ),
@@ -146,7 +166,9 @@ class _AddTransactionScreenState extends State<AddTransactionScreen> {
 
     final amount = double.tryParse(amountText);
     if (amount == null || amount <= 0) {
-      ScaffoldMessenger.of(context).showSnackBar(const SnackBar(content: Text('Montant invalide')));
+      ScaffoldMessenger.of(
+        context,
+      ).showSnackBar(const SnackBar(content: Text('Montant invalide')));
       return;
     }
 
@@ -155,7 +177,9 @@ class _AddTransactionScreenState extends State<AddTransactionScreen> {
       if (!canProceed) return;
     }
 
-    final note = _noteController.text.trim().isEmpty ? null : _noteController.text.trim();
+    final note = _noteController.text.trim().isEmpty
+        ? null
+        : _noteController.text.trim();
 
     if (isExpense) {
       if (widget.existingExpense != null) {
@@ -207,7 +231,11 @@ class _AddTransactionScreenState extends State<AddTransactionScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text(isEditing ? 'Modifier' : (isExpense ? 'Ajouter une dépense' : 'Ajouter un revenu')),
+        title: Text(
+          isEditing
+              ? 'Modifier'
+              : (isExpense ? 'Ajouter une dépense' : 'Ajouter un revenu'),
+        ),
       ),
       body: SingleChildScrollView(
         padding: const EdgeInsets.all(16),
@@ -223,14 +251,18 @@ class _AddTransactionScreenState extends State<AddTransactionScreen> {
                       selectedBackgroundColor: accentColor,
                       selectedForegroundColor: Colors.white,
                       padding: const EdgeInsets.symmetric(vertical: 14),
-                      textStyle: const TextStyle(fontSize: 15, fontWeight: FontWeight.w600),
+                      textStyle: const TextStyle(
+                        fontSize: 15,
+                        fontWeight: FontWeight.w600,
+                      ),
                     ),
                     segments: const [
                       ButtonSegment(value: true, label: Text('Dépense')),
                       ButtonSegment(value: false, label: Text('Revenu')),
                     ],
                     selected: {isExpense},
-                    onSelectionChanged: (newSelection) => setState(() => isExpense = newSelection.first),
+                    onSelectionChanged: (newSelection) =>
+                        setState(() => isExpense = newSelection.first),
                   ),
                 ),
               ),
@@ -238,7 +270,9 @@ class _AddTransactionScreenState extends State<AddTransactionScreen> {
 
             TextField(
               controller: _nameController,
-              decoration: InputDecoration(labelText: isExpense ? 'Nom de la dépense' : 'Source du revenu'),
+              decoration: InputDecoration(
+                labelText: isExpense ? 'Nom de la dépense' : 'Source du revenu',
+              ),
             ),
             const SizedBox(height: 16),
 
@@ -259,7 +293,11 @@ class _AddTransactionScreenState extends State<AddTransactionScreen> {
                     child: Row(
                       mainAxisSize: MainAxisSize.min,
                       children: [
-                        Icon(CategoryStyle.iconOf(category), size: 18, color: CategoryStyle.colorOf(category)),
+                        Icon(
+                          CategoryStyle.iconOf(category),
+                          size: 18,
+                          color: CategoryStyle.colorOf(category),
+                        ),
                         const SizedBox(width: 10),
                         Text(category),
                       ],
@@ -277,7 +315,9 @@ class _AddTransactionScreenState extends State<AddTransactionScreen> {
               onTap: _pickDate,
               child: InputDecorator(
                 decoration: const InputDecoration(labelText: 'Date'),
-                child: Text('${selectedDate.day}/${selectedDate.month}/${selectedDate.year}'),
+                child: Text(
+                  '${selectedDate.day}/${selectedDate.month}/${selectedDate.year}',
+                ),
               ),
             ),
             const SizedBox(height: 16),
@@ -296,8 +336,14 @@ class _AddTransactionScreenState extends State<AddTransactionScreen> {
               ),
               child: SwitchListTile(
                 contentPadding: EdgeInsets.zero,
-                title: Text(isExpense ? 'Dépense récurrente' : 'Revenu récurrent', style: const TextStyle(fontSize: 14)),
-                subtitle: const Text('Se répète chaque mois', style: TextStyle(fontSize: 12)),
+                title: Text(
+                  isExpense ? 'Dépense récurrente' : 'Revenu récurrent',
+                  style: const TextStyle(fontSize: 14),
+                ),
+                subtitle: const Text(
+                  'Se répète chaque mois',
+                  style: TextStyle(fontSize: 12),
+                ),
                 value: isRecurring,
                 activeThumbColor: accentColor,
                 onChanged: (value) => setState(() => isRecurring = value),
@@ -308,10 +354,20 @@ class _AddTransactionScreenState extends State<AddTransactionScreen> {
               const SizedBox(height: 16),
               DropdownButtonFormField<String?>(
                 initialValue: selectedGoalId,
-                decoration: const InputDecoration(labelText: 'Liée à un objectif ? (optionnel)'),
+                decoration: const InputDecoration(
+                  labelText: 'Liée à un objectif ? (optionnel)',
+                ),
                 items: [
-                  const DropdownMenuItem<String?>(value: null, child: Text('Aucun')),
-                  ...goals.map((goal) => DropdownMenuItem<String?>(value: goal.id, child: Text(goal.name))),
+                  const DropdownMenuItem<String?>(
+                    value: null,
+                    child: Text('Aucun'),
+                  ),
+                  ...goals.map(
+                    (goal) => DropdownMenuItem<String?>(
+                      value: goal.id,
+                      child: Text(goal.name),
+                    ),
+                  ),
                 ],
                 onChanged: (value) => setState(() => selectedGoalId = value),
               ),

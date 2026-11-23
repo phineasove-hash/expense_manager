@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../services/plan_service.dart';
 import '../theme/app_colors.dart';
+import '../utils/money_format.dart';
 
 class MonthlyPlanReviewScreen extends StatelessWidget {
   final int year;
@@ -83,14 +84,14 @@ class MonthlyPlanReviewScreen extends StatelessWidget {
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: [
                           Text(
-                            'Prévu : ${data.planned.toStringAsFixed(0)} FCFA',
+                            'Prévu : ${formatAmount(data.planned)} FCFA',
                             style: TextStyle(
                               fontSize: 12,
                               color: AppColors.textSecondary(context),
                             ),
                           ),
                           Text(
-                            'Réel : ${data.actual.toStringAsFixed(0)} FCFA',
+                            'Réel : ${formatAmount(data.actual)} FCFA',
                             style: TextStyle(
                               fontSize: 12,
                               color: AppColors.textSecondary(context),
@@ -112,8 +113,8 @@ class MonthlyPlanReviewScreen extends StatelessWidget {
                         ),
                         child: Text(
                           isDeficit
-                              ? 'Déficit de ${variance.abs().toStringAsFixed(0)} FCFA'
-                              : 'Surplus de ${variance.toStringAsFixed(0)} FCFA',
+                              ? 'Déficit de ${formatAmount(variance.abs())} FCFA'
+                              : 'Surplus de ${formatAmount(variance)} FCFA',
                           style: TextStyle(
                             color: isDeficit
                                 ? AppColors.danger

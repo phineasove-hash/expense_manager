@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../theme/app_colors.dart';
 import '../theme/app_theme.dart';
+import '../utils/money_format.dart';
 
 class BalanceCard extends StatelessWidget {
   final double totalIncome;
@@ -44,19 +45,33 @@ class BalanceCard extends StatelessWidget {
                 const SizedBox(height: 4),
                 // Le chiffre héros : grand, serif, c'est LE point focal de l'écran
                 Text(
-                  balance.toStringAsFixed(0),
-                  style: AppTheme.displayFont(fontSize: 34, color: const Color(0xFFF7F3EC)),
+                  formatAmount(balance),
+                  style: AppTheme.displayFont(
+                    fontSize: 34,
+                    color: const Color(0xFFF7F3EC),
+                  ),
                 ),
                 Text(
                   'FCFA',
-                  style: TextStyle(color: AppColors.gold.withValues(alpha: 0.7), fontSize: 12),
+                  style: TextStyle(
+                    color: AppColors.gold.withValues(alpha: 0.7),
+                    fontSize: 12,
+                  ),
                 ),
                 const SizedBox(height: 18),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
-                    _buildAmountColumn('Revenus', totalIncome, AppColors.income),
-                    _buildAmountColumn('Dépenses', totalExpense, const Color(0xFFE0836F)),
+                    _buildAmountColumn(
+                      'Revenus',
+                      totalIncome,
+                      AppColors.income,
+                    ),
+                    _buildAmountColumn(
+                      'Dépenses',
+                      totalExpense,
+                      const Color(0xFFE0836F),
+                    ),
                   ],
                 ),
                 const SizedBox(height: 18),
@@ -74,7 +89,10 @@ class BalanceCard extends StatelessWidget {
 
   Widget _buildZigzagStrip() {
     return ClipRRect(
-      borderRadius: const BorderRadius.only(bottomLeft: Radius.circular(18), bottomRight: Radius.circular(18)),
+      borderRadius: const BorderRadius.only(
+        bottomLeft: Radius.circular(18),
+        bottomRight: Radius.circular(18),
+      ),
       child: SizedBox(
         height: 10,
         width: double.infinity,
@@ -95,10 +113,17 @@ class BalanceCard extends StatelessWidget {
         Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text(label, style: const TextStyle(color: Color(0xFF9AA4BE), fontSize: 11)),
             Text(
-              '${amount.toStringAsFixed(0)} FCFA',
-              style: const TextStyle(color: Color(0xFFF7F3EC), fontWeight: FontWeight.w600, fontSize: 13),
+              label,
+              style: const TextStyle(color: Color(0xFF9AA4BE), fontSize: 11),
+            ),
+            Text(
+              '${formatAmount(amount)} FCFA',
+              style: const TextStyle(
+                color: Color(0xFFF7F3EC),
+                fontWeight: FontWeight.w600,
+                fontSize: 13,
+              ),
             ),
           ],
         ),
@@ -113,9 +138,18 @@ class _ZigzagPainter extends CustomPainter {
   @override
   void paint(Canvas canvas, Size size) {
     const stripeWidth = 16.0;
-    final colors = [AppColors.gold, AppColors.secondary, const Color(0xFFB94A3D), AppColors.secondary];
+    final colors = [
+      AppColors.gold,
+      AppColors.secondary,
+      const Color(0xFFB94A3D),
+      AppColors.secondary,
+    ];
     int i = 0;
-    for (double x = -stripeWidth; x < size.width + stripeWidth; x += stripeWidth) {
+    for (
+      double x = -stripeWidth;
+      x < size.width + stripeWidth;
+      x += stripeWidth
+    ) {
       final paint = Paint()..color = colors[i % colors.length];
       final path = Path()
         ..moveTo(x, 0)

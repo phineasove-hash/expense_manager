@@ -2,6 +2,7 @@ import 'package:hive/hive.dart';
 
 import '../database/hive_database.dart';
 import '../models/budget.dart';
+import '../utils/money_format.dart';
 import 'budget_service.dart';
 import 'expense_service.dart';
 import 'plan_service.dart';
@@ -71,7 +72,7 @@ class AlertService {
             key: 'budget_exceeded_${budget.id}',
             title: 'Budget dépassé',
             message:
-                'Tu as dépensé 100% ou plus de ton budget de ${budget.totalAmount.toStringAsFixed(0)} FCFA.',
+                'Tu as dépensé 100% ou plus de ton budget de ${formatAmount(budget.totalAmount)} FCFA.',
             level: AlertLevel.danger,
           ),
         );
@@ -91,7 +92,8 @@ class AlertService {
           BudgetAlert(
             key: 'budget_success_${budget.id}',
             title: 'Bien joué !',
-            message: 'Ton budget est encore bien respecté à quelques jours de la fin de la période.',
+            message:
+                'Ton budget est encore bien respecté à quelques jours de la fin de la période.',
             level: AlertLevel.success,
           ),
         );
@@ -101,8 +103,13 @@ class AlertService {
     final now = DateTime.now();
     final monthStart = DateTime(now.year, now.month, 1);
     final monthEnd = DateTime(now.year, now.month + 1, 0);
-    final monthlyExpenses = _expenseService.getExpensesBetween(monthStart, monthEnd);
-    final actualByCategory = _expenseService.getTotalByCategory(monthlyExpenses);
+    final monthlyExpenses = _expenseService.getExpensesBetween(
+      monthStart,
+      monthEnd,
+    );
+    final actualByCategory = _expenseService.getTotalByCategory(
+      monthlyExpenses,
+    );
 
     for (final planItem in _planService.getPlanForMonth(now.year, now.month)) {
       final actual = actualByCategory[planItem.category] ?? 0.0;
@@ -116,7 +123,7 @@ class AlertService {
           key: 'plan_${now.year}_${now.month}_${planItem.category}',
           title: 'Plan dépassé',
           message:
-              'Tu as dépassé ton plan "${planItem.category}" de ${overrun.toStringAsFixed(0)} FCFA ce mois-ci (${actual.toStringAsFixed(0)} / ${planItem.plannedAmount.toStringAsFixed(0)} FCFA).',
+              'Tu as dépassé ton plan "${planItem.category}" de ${formatAmount(overrun)} FCFA ce mois-ci (${formatAmount(actual)} / ${formatAmount(planItem.plannedAmount)} FCFA).',
           level: AlertLevel.warning,
         ),
       );

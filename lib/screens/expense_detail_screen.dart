@@ -4,6 +4,7 @@ import '../models/expense.dart';
 import '../services/expense_service.dart';
 import '../theme/app_colors.dart';
 import '../theme/category_style.dart';
+import '../utils/money_format.dart';
 import 'add_transaction_screen.dart';
 
 class ExpenseDetailScreen extends StatelessWidget {
@@ -86,7 +87,7 @@ class ExpenseDetailScreen extends StatelessWidget {
 
             // Le montant, gros et centré
             Text(
-              '-${expense.amount.toStringAsFixed(0)} FCFA',
+              '-${formatAmount(expense.amount)} FCFA',
               style: const TextStyle(
                 fontSize: 30,
                 fontWeight: FontWeight.bold,

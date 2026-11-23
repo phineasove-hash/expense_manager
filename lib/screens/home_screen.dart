@@ -43,7 +43,7 @@ class _HomeScreenState extends State<HomeScreen> {
     merged.sort((a, b) => b.date.compareTo(a.date));
 
     return merged.map<Widget>((item) {
-      // On regarde le type réel de l'objet pour savoir quelle carte utiliser.
+      // On regarde le type réel de l'objet pour savoir quelle carte utiliser.g
       if (item is Expense) {
         return ExpenseCard(
           expense: item,
@@ -245,10 +245,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     style: TextStyle(fontWeight: FontWeight.bold, fontSize: 15),
                   ),
                   const SizedBox(height: 16),
-                  BalanceLineChart(
-                    spots: balanceSpots,
-                    lineColor: const Color(0xFF9B59B6),
-                  ),
+                  BalanceLineChart(spots: balanceSpots),
                 ],
               ),
             ),
@@ -273,7 +270,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       MaterialPageRoute(builder: (context) => const TransactionsScreen()),
                     );
                  },
-                 child: const Text('Voir tout', style: TextStyle(color: AppColors.secondary, fontSize: 13, fontWeight: FontWeight.w600)),
+                 child: Text('Voir tout', style: TextStyle(color: AppColors.accent(context), fontSize: 13, fontWeight: FontWeight.w600)),
                ),
               ],
             ),

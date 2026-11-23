@@ -73,9 +73,9 @@ class CategoryPieChart extends StatelessWidget {
 
 class BalanceLineChart extends StatelessWidget {
   final List<FlSpot> spots;
-  final Color lineColor;
+  final Color ? lineColor;
 
-  const BalanceLineChart({super.key, required this.spots, this.lineColor = AppColors.secondary});
+  const BalanceLineChart({super.key, required this.spots, this.lineColor});
 
   String _formatAmount(double value) {
     if (value.abs() >= 1000) return '${(value / 1000).toStringAsFixed(0)}k';
@@ -93,6 +93,7 @@ class BalanceLineChart extends StatelessWidget {
 
     final gridColor = AppColors.background(context);
     final labelColor = AppColors.textSecondary(context);
+    final Color color = lineColor ?? AppColors.accent(context);
 
     return SizedBox(
       height: 200,
@@ -131,10 +132,10 @@ class BalanceLineChart extends StatelessWidget {
             LineChartBarData(
               spots: spots,
               isCurved: true,
-              color: lineColor,
+              color: color,
               barWidth: 3,
               dotData: const FlDotData(show: false),
-              belowBarData: BarAreaData(show: true, color: lineColor.withValues(alpha: 0.1)),
+              belowBarData: BarAreaData(show: true, color: color.withValues(alpha: 0.1)),
             ),
           ],
         ),

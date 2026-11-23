@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../services/budget_service.dart';
 import '../theme/app_colors.dart';
+import '../utils/money_format.dart';
 
 class BudgetHistoryScreen extends StatelessWidget {
   const BudgetHistoryScreen({super.key});
@@ -44,7 +45,7 @@ class BudgetHistoryScreen extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                        '${budget.totalAmount.toStringAsFixed(0)} FCFA',
+                        '${formatAmount(budget.totalAmount)} FCFA',
                         style: const TextStyle(
                           fontWeight: FontWeight.bold,
                           fontSize: 16,

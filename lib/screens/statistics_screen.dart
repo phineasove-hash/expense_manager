@@ -8,6 +8,7 @@ import '../services/budget_service.dart';
 import '../services/expense_service.dart';
 import '../services/income_service.dart';
 import '../theme/app_colors.dart';
+import '../utils/money_format.dart';
 import '../widgets/chart_widget.dart';
 import '../widgets/app_drawer.dart';
 
@@ -110,9 +111,22 @@ class _StatisticsScreenState extends State<StatisticsScreen> {
     return Scaffold(
       drawer: const AppDrawer(),
       appBar: AppBar(
-        leading: Navigator.canPop(context) ? IconButton(icon: const Icon(Icons.arrow_back), onPressed: () => Navigator.pop(context)) : Builder(builder: (context) => IconButton(icon: const Icon(Icons.menu), onPressed: () => Scaffold.of(context).openDrawer())),
-        title: const Text('Statistiques', style: TextStyle(fontWeight: FontWeight.bold)),
-      ),  
+        leading: Navigator.canPop(context)
+            ? IconButton(
+                icon: const Icon(Icons.arrow_back),
+                onPressed: () => Navigator.pop(context),
+              )
+            : Builder(
+                builder: (context) => IconButton(
+                  icon: const Icon(Icons.menu),
+                  onPressed: () => Scaffold.of(context).openDrawer(),
+                ),
+              ),
+        title: const Text(
+          'Statistiques',
+          style: TextStyle(fontWeight: FontWeight.bold),
+        ),
+      ),
       body: SingleChildScrollView(
         padding: const EdgeInsets.fromLTRB(16, 8, 16, 24),
         child: Column(
@@ -206,7 +220,7 @@ class _StatisticsScreenState extends State<StatisticsScreen> {
             ),
           ),
           Text(
-            '${value.toStringAsFixed(0)} FCFA',
+            '${formatAmount(value)} FCFA',
             style: TextStyle(
               fontSize: 16,
               fontWeight: FontWeight.bold,
@@ -237,21 +251,21 @@ class _StatisticsScreenState extends State<StatisticsScreen> {
           ),
           const SizedBox(height: 8),
           Text(
-            'Montant : ${budget.totalAmount.toStringAsFixed(0)} FCFA',
+            'Montant : ${formatAmount(budget.totalAmount)} FCFA',
             style: TextStyle(
               color: AppColors.textSecondary(context),
               fontSize: 13,
             ),
           ),
           Text(
-            'Dépensé : ${spent.toStringAsFixed(0)} FCFA',
+            'Dépensé : ${formatAmount(spent)} FCFA',
             style: TextStyle(
               color: AppColors.textSecondary(context),
               fontSize: 13,
             ),
           ),
           Text(
-            'Restant : ${remaining.toStringAsFixed(0)} FCFA',
+            'Restant : ${formatAmount(remaining)} FCFA',
             style: TextStyle(
               color: AppColors.textSecondary(context),
               fontSize: 13,

@@ -7,6 +7,7 @@ import 'edit_budget_amount_screen.dart';
 import 'change_budget_period_screen.dart';
 import 'budget_history_screen.dart';
 import '../utils/date_format.dart';
+import '../utils/money_format.dart';
 import '../widgets/app_drawer.dart';
 
 class BudgetScreen extends StatefulWidget {
@@ -204,10 +205,10 @@ class _BudgetScreenState extends State<BudgetScreen> {
                   ),
                 ),
                 const SizedBox(height: 16),
-                const Text(
+                Text(
                   'BUDGET TOTAL',
                   style: TextStyle(
-                    color: AppColors.gold,
+                    color: AppColors.goldText(context),
                     fontSize: 11,
                     fontWeight: FontWeight.w700,
                     letterSpacing: 0.8,
@@ -215,7 +216,7 @@ class _BudgetScreenState extends State<BudgetScreen> {
                 ),
                 const SizedBox(height: 2),
                 Text(
-                  '${budget.totalAmount.toStringAsFixed(0)} FCFA',
+                  '${formatAmount(budget.totalAmount)} FCFA',
                   style: const TextStyle(
                     fontSize: 26,
                     fontWeight: FontWeight.bold,
@@ -252,7 +253,7 @@ class _BudgetScreenState extends State<BudgetScreen> {
                           ),
                         ),
                         Text(
-                          '${spent.toStringAsFixed(0)} FCFA',
+                          '${formatAmount(spent)} FCFA',
                           style: const TextStyle(
                             color: AppColors.expense,
                             fontWeight: FontWeight.bold,
@@ -271,7 +272,7 @@ class _BudgetScreenState extends State<BudgetScreen> {
                           ),
                         ),
                         Text(
-                          '${remaining.toStringAsFixed(0)} FCFA',
+                          '${formatAmount(remaining)} FCFA',
                           style: const TextStyle(
                             color: AppColors.success,
                             fontWeight: FontWeight.bold,

@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../models/income.dart';
 import '../theme/app_colors.dart';
+import '../utils/money_format.dart';
 
 class IncomeCard extends StatelessWidget {
   final Income income;
@@ -62,7 +63,7 @@ class IncomeCard extends StatelessWidget {
               ),
             ),
             Text(
-              '+${income.amount.toStringAsFixed(0)} FCFA',
+              '+${formatAmount(income.amount)} FCFA',
               style: const TextStyle(
                 color: AppColors.income,
                 fontWeight: FontWeight.bold,

@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../models/expense.dart';
 import '../theme/app_colors.dart';
 import '../theme/category_style.dart';
+import '../utils/money_format.dart';
 
 class ExpenseCard extends StatelessWidget {
   final Expense expense;
@@ -65,7 +66,7 @@ class ExpenseCard extends StatelessWidget {
               ),
             ),
             Text(
-              '-${expense.amount.toStringAsFixed(0)} FCFA',
+              '-${formatAmount(expense.amount)} FCFA',
               style: const TextStyle(
                 color: AppColors.expense,
                 fontWeight: FontWeight.bold,

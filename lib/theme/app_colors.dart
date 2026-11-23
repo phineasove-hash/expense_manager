@@ -41,4 +41,13 @@ class AppColors {
   static Color textSecondary(BuildContext context) {
     return Theme.of(context).brightness == Brightness.dark ? darkTextSecondary : lightTextSecondary;
   }
+    // Accent lisible dans les deux thèmes : indigo en clair, or en sombre.
+  static Color accent(BuildContext context) {
+    return Theme.of(context).brightness == Brightness.dark ? gold : secondary;
+  }
+
+  // Or pour les petits textes : plus foncé en mode clair, pour rester lisible sur le papier.
+  static Color goldText(BuildContext context) {
+    return Theme.of(context).brightness == Brightness.dark ? gold : const Color(0xFF7A5F08);
+  }
 }

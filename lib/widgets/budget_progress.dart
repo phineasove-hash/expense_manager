@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+
 import '../theme/app_colors.dart';
+import '../utils/money_format.dart';
 
 class BudgetProgress extends StatelessWidget {
   final double totalAmount;
@@ -22,8 +24,8 @@ class BudgetProgress extends StatelessWidget {
     final Color progressColor = usagePercentage < 0.7
         ? AppColors.success
         : usagePercentage < 0.9
-            ? AppColors.gold
-            : AppColors.danger;
+        ? AppColors.gold
+        : AppColors.danger;
 
     return Container(
       width: double.infinity,
@@ -31,16 +33,19 @@ class BudgetProgress extends StatelessWidget {
       decoration: BoxDecoration(
         color: AppColors.cardBackground(context),
         borderRadius: BorderRadius.circular(18),
-        border: Border.all(color: AppColors.secondary.withValues(alpha: 0.08), width: 1),
+        border: Border.all(
+          color: AppColors.secondary.withValues(alpha: 0.08),
+          width: 1,
+        ),
       ),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           // Petit repère or, cohérent avec le label de la carte de solde
-          const Text(
+          Text(
             'BUDGET DU MOIS',
             style: TextStyle(
-              color: AppColors.gold,
+              color: AppColors.goldText(context),
               fontSize: 11,
               fontWeight: FontWeight.w600,
               letterSpacing: 1.2,
@@ -48,7 +53,7 @@ class BudgetProgress extends StatelessWidget {
           ),
           const SizedBox(height: 6),
           Text(
-            '${totalAmount.toStringAsFixed(0)} FCFA',
+            '${formatAmount(totalAmount)} FCFA',
             style: TextStyle(
               fontSize: 24,
               fontWeight: FontWeight.bold,
@@ -60,7 +65,12 @@ class BudgetProgress extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
               _buildLabel(context, 'Dépensé', spentAmount, AppColors.expense),
-              _buildLabel(context, 'Restant', remainingAmount, AppColors.success),
+              _buildLabel(
+                context,
+                'Restant',
+                remainingAmount,
+                AppColors.success,
+              ),
             ],
           ),
           const SizedBox(height: 12),
@@ -81,11 +91,17 @@ class BudgetProgress extends StatelessWidget {
             children: [
               Text(
                 '${(usagePercentage * 100).toStringAsFixed(0)}% utilisé',
-                style: TextStyle(fontSize: 12, color: AppColors.textSecondary(context)),
+                style: TextStyle(
+                  fontSize: 12,
+                  color: AppColors.textSecondary(context),
+                ),
               ),
               Text(
                 '$remainingDays jours restants',
-                style: TextStyle(fontSize: 12, color: AppColors.textSecondary(context)),
+                style: TextStyle(
+                  fontSize: 12,
+                  color: AppColors.textSecondary(context),
+                ),
               ),
             ],
           ),
@@ -94,14 +110,29 @@ class BudgetProgress extends StatelessWidget {
     );
   }
 
-  Widget _buildLabel(BuildContext context, String label, double amount, Color color) {
+  Widget _buildLabel(
+    BuildContext context,
+    String label,
+    double amount,
+    Color color,
+  ) {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        Text(label, style: TextStyle(fontSize: 12, color: AppColors.textSecondary(context))),
         Text(
-          '${amount.toStringAsFixed(0)} FCFA',
-          style: TextStyle(fontWeight: FontWeight.bold, color: color, fontSize: 15),
+          label,
+          style: TextStyle(
+            fontSize: 12,
+            color: AppColors.textSecondary(context),
+          ),
+        ),
+        Text(
+          '${formatAmount(amount)} FCFA',
+          style: TextStyle(
+            fontWeight: FontWeight.bold,
+            color: color,
+            fontSize: 15,
+          ),
         ),
       ],
     );

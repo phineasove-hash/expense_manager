@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../models/income.dart';
 import '../services/income_service.dart';
 import '../theme/app_colors.dart';
+import '../utils/money_format.dart';
 import 'add_transaction_screen.dart';
 
 class IncomeDetailScreen extends StatelessWidget {
@@ -83,7 +84,7 @@ class IncomeDetailScreen extends StatelessWidget {
             const SizedBox(height: 4),
 
             Text(
-              '+${income.amount.toStringAsFixed(0)} FCFA',
+              '+${formatAmount(income.amount)} FCFA',
               style: const TextStyle(
                 fontSize: 30,
                 fontWeight: FontWeight.bold,
